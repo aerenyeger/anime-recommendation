@@ -1,0 +1,4008 @@
+[
+  {
+    "id": 1,
+    "name": "Neon Genesis Evangelion",
+    "status": "Completed",
+    "genres": ["Psychological", "Mecha", "Drama", "Sci-Fi"],
+    "studio": "Gainax",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "Teenagers are recruited to pilot giant bio-mechanical weapons to protect humanity from mysterious beings known as Angels. Beneath the surface, the series explores depression, identity, and existential fear. Evangelion is known for its deep psychological themes and symbolic storytelling."
+  },
+  {
+    "id": 2,
+    "name": "Gurren Lagann",
+    "status": "Completed",
+    "genres": ["Action", "Mecha", "Adventure"],
+    "studio": "Gainax",
+    "seasons": 1,
+    "episodes": 27,
+    "description": "Humanity lives underground until a young boy discovers the power to challenge the heavens themselves. The story evolves from small-scale rebellion into a grand cosmic struggle, emphasizing courage, determination, and self-belief."
+  },
+  {
+    "id": 3,
+    "name": "Hellsing Ultimate",
+    "status": "Completed",
+    "genres": ["Action", "Horror", "Supernatural"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 10,
+    "description": "An elite organization fights supernatural threats using a powerful vampire as its ultimate weapon. The series is known for its violent action, dark atmosphere, and exploration of morality and monstrosity."
+  },
+  {
+    "id": 4,
+    "name": "Banana Fish",
+    "status": "Completed",
+    "genres": ["Drama", "Thriller", "Psychological"],
+    "studio": "MAPPA",
+    "seasons": 1,
+    "episodes": 24,
+    "description": "A teenage gang leader uncovers a mysterious phrase connected to his brother’s mental breakdown. The story delves into crime, trauma, and human connection, presenting a powerful emotional narrative."
+  },
+  {
+    "id": 5,
+    "name": "Odd Taxi",
+    "status": "Completed",
+    "genres": ["Mystery", "Drama", "Psychological"],
+    "studio": "OLM",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "A taxi driver becomes entangled in a complex web of missing persons, criminal activity, and intersecting lives. The series uses subtle dialogue and layered storytelling to build an intricate mystery."
+  },
+  {
+    "id": 6,
+    "name": "Angel Beats!",
+    "status": "Completed",
+    "genres": ["Drama", "Supernatural", "Action"],
+    "studio": "P.A. Works",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "Students awaken in a strange afterlife where they rebel against fate and unresolved regrets. Through humor and tragedy, the series explores acceptance, loss, and the value of life."
+  },
+  {
+    "id": 7,
+    "name": "Zankyou no Terror",
+    "status": "Completed",
+    "genres": ["Thriller", "Psychological", "Drama"],
+    "studio": "MAPPA",
+    "seasons": 1,
+    "episodes": 11,
+    "description": "Two teenage terrorists carry out cryptic attacks on Tokyo while being pursued by the police. The series focuses on social alienation, morality, and the consequences of violence."
+  },
+  {
+    "id": 8,
+    "name": "Ergo Proxy",
+    "status": "Completed",
+    "genres": ["Sci-Fi", "Psychological", "Mystery"],
+    "studio": "Manglobe",
+    "seasons": 1,
+    "episodes": 23,
+    "description": "In a dystopian future, humans and androids coexist under strict control. A series of mysterious events leads to philosophical questions about consciousness, existence, and identity."
+  },
+  {
+    "id": 9,
+    "name": "Trigun",
+    "status": "Completed",
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "A legendary outlaw with a massive bounty wanders a desert planet while trying to avoid violence. The anime balances comedy with serious themes of pacifism and redemption."
+  },
+  {
+    "id": 10,
+    "name": "Dororo",
+    "status": "Completed",
+    "genres": ["Action", "Supernatural", "Drama"],
+    "studio": "MAPPA",
+    "seasons": 1,
+    "episodes": 24,
+    "description": "A young warrior whose body was sacrificed to demons seeks to reclaim his stolen parts. The story blends folklore with emotional storytelling and moral dilemmas."
+  },
+  {
+    "id": 11,
+    "name": "Assassination Classroom",
+    "status": "Completed",
+    "genres": ["Action", "Comedy", "Drama"],
+    "studio": "Lerche",
+    "seasons": 2,
+    "episodes": 47,
+    "description": "Students are tasked with assassinating their teacher before he destroys the Earth. As the year progresses, the class learns valuable lessons about life, growth, and responsibility."
+  },
+  {
+    "id": 12,
+    "name": "Akira",
+    "status": "Completed",
+    "genres": ["Sci-Fi", "Action", "Psychological"],
+    "studio": "Tokyo Movie Shinsha",
+    "seasons": 1,
+    "episodes": 1,
+    "description": "In a dystopian future Tokyo, a teenager gains uncontrollable psychic powers. The film explores chaos, power, and societal collapse through intense visuals and storytelling."
+  },
+  {
+    "id": 13,
+    "name": "Samurai Champloo",
+    "status": "Completed",
+    "genres": ["Action", "Adventure"],
+    "studio": "Manglobe",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "Three unlikely companions travel across Edo-era Japan in search of a mysterious samurai. The series blends historical settings with modern hip-hop influences, combining stylish action with emotional storytelling."
+  },
+  {
+    "id": 14,
+    "name": "Psycho-Pass",
+    "status": "Completed",
+    "genres": ["Psychological", "Sci-Fi", "Thriller"],
+    "studio": "Production I.G",
+    "seasons": 3,
+    "episodes": 41,
+    "description": "In a future society where mental states are constantly monitored, law enforcement uses a system that predicts criminal behavior. The series questions free will, justice, and moral responsibility."
+  },
+  {
+    "id": 15,
+    "name": "Serial Experiments Lain",
+    "status": "Completed",
+    "genres": ["Psychological", "Sci-Fi", "Mystery"],
+    "studio": "Triangle Staff",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "A quiet girl becomes increasingly connected to a vast digital network that blurs the boundary between reality and identity. The anime explores consciousness, technology, and human connection."
+  },
+  {
+    "id": 16,
+    "name": "Texhnolyze",
+    "status": "Completed",
+    "genres": ["Psychological", "Sci-Fi", "Drama"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 22,
+    "description": "Set in a bleak underground city, the series follows characters caught in cycles of violence and despair. Texhnolyze presents a dark philosophical examination of humanity and survival."
+  },
+  {
+    "id": 17,
+    "name": "Paranoia Agent",
+    "status": "Completed",
+    "genres": ["Psychological", "Mystery", "Drama"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "A mysterious assailant terrorizes Tokyo, while each victim reveals deeper societal anxieties. The story interweaves multiple perspectives to explore fear, escapism, and collective psychology."
+  },
+  {
+    "id": 18,
+    "name": "Haibane Renmei",
+    "status": "Completed",
+    "genres": ["Fantasy", "Drama", "Psychological"],
+    "studio": "Radix",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "Winged beings live quiet lives in a secluded town, struggling with guilt and redemption. The series uses symbolism to address themes of sin, forgiveness, and rebirth."
+  },
+  {
+    "id": 19,
+    "name": "Erased",
+    "status": "Completed",
+    "genres": ["Mystery", "Psychological", "Thriller"],
+    "studio": "A-1 Pictures",
+    "seasons": 1,
+    "episodes": 12,
+    "description": "A man with the ability to return to moments before tragedies attempts to prevent a series of murders from his childhood. The story combines suspense with emotional depth."
+  },
+  {
+    "id": 20,
+    "name": "Baccano!",
+    "status": "Completed",
+    "genres": ["Action", "Mystery", "Supernatural"],
+    "studio": "Brain's Base",
+    "seasons": 1,
+    "episodes": 16,
+    "description": "Multiple interconnected stories unfold across different timelines, involving immortals, gangsters, and alchemists. The non-linear narrative creates a chaotic yet engaging experience."
+  },
+  {
+    "id": 21,
+    "name": "Durarara!!",
+    "status": "Completed",
+    "genres": ["Action", "Mystery", "Supernatural"],
+    "studio": "Brain's Base",
+    "seasons": 2,
+    "episodes": 60,
+    "description": "Strange events occur in a bustling city where urban legends and eccentric characters collide. The anime explores identity, rumors, and the power of human connections."
+  },
+  {
+    "id": 22,
+    "name": "Hyouka",
+    "status": "Completed",
+    "genres": ["Slice of Life", "Mystery", "Drama"],
+    "studio": "Kyoto Animation",
+    "seasons": 1,
+    "episodes": 22,
+    "description": "A group of students solve everyday mysteries while navigating personal growth and relationships. The series focuses on subtle storytelling and character-driven development."
+  },
+  {
+    "id": 23,
+    "name": "Barakamon",
+    "status": "Completed",
+    "genres": ["Slice of Life", "Comedy", "Drama"],
+    "studio": "Kinema Citrus",
+    "seasons": 1,
+    "episodes": 12,
+    "description": "A hot-headed calligrapher moves to a rural island where interactions with locals reshape his outlook on life. The anime emphasizes healing, creativity, and self-discovery."
+  },
+  {
+    "id": 24,
+    "name": "Shirobako",
+    "status": "Completed",
+    "genres": ["Drama", "Slice of Life"],
+    "studio": "P.A. Works",
+    "seasons": 1,
+    "episodes": 24,
+    "description": "The story follows young professionals working in the anime industry, highlighting the challenges of creativity, deadlines, and teamwork. It offers an inside look at animation production."
+  },
+  {
+    "id": 25,
+    "name": "March Comes in Like a Lion",
+    "status": "Completed",
+    "genres": ["Drama", "Slice of Life"],
+    "studio": "Shaft",
+    "seasons": 2,
+    "episodes": 44,
+    "description": "A young professional shogi player struggles with loneliness and depression while forming meaningful relationships. The anime presents a heartfelt exploration of healing and growth."
+  },
+  {
+    "id": 26,
+    "name": "Ping Pong the Animation",
+    "status": "Completed",
+    "genres": ["Sports", "Drama"],
+    "studio": "Tatsunoko Production",
+    "seasons": 1,
+    "episodes": 11,
+    "description": "Two childhood friends pursue table tennis at a competitive level, confronting ambition and self-doubt. The series is known for its unique art style and emotional storytelling."
+  },
+  {
+    "id": 27,
+    "name": "Kids on the Slope",
+    "status": "Completed",
+    "genres": ["Music", "Drama", "Romance"],
+    "studio": "MAPPA",
+    "seasons": 1,
+    "episodes": 12,
+    "description": "Two students form a bond through their love of jazz music. The anime explores friendship, romance, and emotional expression through musical collaboration."
+  },
+  {
+    "id": 28,
+    "name": "Anohana",
+    "status": "Completed",
+    "genres": ["Drama", "Supernatural"],
+    "studio": "A-1 Pictures",
+    "seasons": 1,
+    "episodes": 11,
+    "description": "A group of friends reunites years after a tragic loss when a ghostly presence appears. The series focuses on grief, guilt, and emotional closure."
+  },
+  {
+    "id": 29,
+    "name": "Toradora!",
+    "status": "Completed",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "studio": "J.C.Staff",
+    "seasons": 1,
+    "episodes": 25,
+    "description": "Two students with contrasting personalities help each other pursue their romantic interests. Over time, their relationship deepens into something more meaningful."
+  },
+  {
+    "id": 30,
+    "name": "Golden Time",
+    "status": "Completed",
+    "genres": ["Romance", "Drama"],
+    "studio": "J.C.Staff",
+    "seasons": 1,
+    "episodes": 24,
+    "description": "A college student with amnesia navigates new relationships while confronting memories of his past. The story blends romance with emotional complexity."
+  },
+  {
+    "id": 31,
+    "name": "Clannad",
+    "status": "Completed",
+    "genres": ["Drama", "Romance", "Slice of Life"],
+    "studio": "Kyoto Animation",
+    "seasons": 2,
+    "episodes": 47,
+    "description": "A troubled student meets classmates whose lives he gradually changes. The series explores family, love, and the passage of time through emotional storytelling."
+  },
+  {
+    "id": 32,
+    "name": "Plastic Memories",
+    "status": "Completed",
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "studio": "Doga Kobo",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "In a world where androids have limited lifespans, employees retrieve them before expiration. The story explores love, loss, and acceptance."
+  },
+  {
+    "id": 33,
+    "name": "Vivy: Fluorite Eye’s Song",
+    "status": "Completed",
+    "genres": ["Sci-Fi", "Drama", "Action"],
+    "studio": "Wit Studio",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "An AI songstress embarks on a mission across decades to prevent a future war. The anime blends action with philosophical questions about artificial intelligence."
+  },
+  {
+    "id": 34,
+    "name": "91 Days",
+    "status": "Completed",
+    "genres": ["Drama", "Thriller"],
+    "studio": "Shuka",
+    "seasons": 1,
+    "episodes": 12,
+    "description": "Set during the Prohibition era, a man seeks revenge against a mafia family. The series presents a dark and grounded crime narrative."
+  },
+  {
+    "id": 35,
+    "name": "Black Lagoon",
+    "status": "Completed",
+    "genres": ["Action", "Crime"],
+    "studio": "Madhouse",
+    "seasons": 2,
+    "episodes": 29,
+    "description": "A group of mercenaries navigates the criminal underworld of Southeast Asia. The anime emphasizes action, moral ambiguity, and survival."
+  },
+  {
+    "id": 36,
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "status": "Completed",
+    "genres": ["Sci-Fi", "Action", "Psychological"],
+    "studio": "Production I.G",
+    "seasons": 2,
+    "episodes": 52,
+    "description": "A specialized task force handles cybercrime in a highly networked future. The series explores identity, consciousness, and technology."
+  },
+  {
+    "id": 37,
+    "name": "The Tatami Galaxy",
+    "status": "Completed",
+    "genres": ["Comedy", "Psychological", "Drama"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 11,
+    "description": "A college student repeatedly relives his life, exploring different paths and regrets. The anime presents a unique narrative style focused on choices and self-reflection."
+  },
+  {
+    "id": 38,
+    "name": "Kaiji: Ultimate Survivor",
+    "status": "Completed",
+    "genres": ["Psychological", "Thriller"],
+    "studio": "Madhouse",
+    "seasons": 2,
+    "episodes": 52,
+    "description": "A desperate man is drawn into high-stakes gambling where survival depends on strategy and mental endurance. The series highlights tension and human psychology."
+  },
+  {
+    "id": 39,
+    "name": "Rainbow",
+    "status": "Completed",
+    "genres": ["Drama", "Psychological"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "Seven teenagers endure brutal conditions in a post-war prison while holding onto hope and brotherhood. The story focuses on resilience and redemption."
+  },
+  {
+    "id": 40,
+    "name": "Mushishi",
+    "status": "Completed",
+    "genres": ["Supernatural", "Slice of Life", "Drama"],
+    "studio": "Artland",
+    "seasons": 2,
+    "episodes": 46,
+    "description": "A wandering man studies mysterious life forms that affect the natural world. Each episode presents a quiet, reflective story about coexistence."
+  },
+  {
+    "id": 41,
+    "name": "Kino’s Journey",
+    "status": "Completed",
+    "genres": ["Adventure", "Philosophical"],
+    "studio": "A.C.G.T",
+    "seasons": 1,
+    "episodes": 13,
+    "description": "A traveler journeys through various countries, spending only three days in each. The anime explores morality, society, and human nature."
+  },
+  {
+    "id": 42,
+    "name": "Wolf’s Rain",
+    "status": "Completed",
+    "genres": ["Fantasy", "Drama"],
+    "studio": "Bones",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "In a dying world, wolves search for a legendary paradise. The series blends fantasy with themes of hope, destiny, and survival."
+  },
+  {
+    "id": 43,
+    "name": "Planetes",
+    "status": "Completed",
+    "genres": ["Sci-Fi", "Drama"],
+    "studio": "Sunrise",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "Space debris collectors face both physical danger and personal struggles. The anime offers a realistic portrayal of space work and human ambition."
+  },
+  {
+    "id": 44,
+    "name": "Eureka Seven",
+    "status": "Completed",
+    "genres": ["Mecha", "Adventure", "Drama"],
+    "studio": "Bones",
+    "seasons": 1,
+    "episodes": 50,
+    "description": "A young boy joins a group of rebels piloting mysterious machines. The series focuses on growth, love, and understanding the world."
+  },
+  {
+    "id": 45,
+    "name": "Great Teacher Onizuka",
+    "status": "Completed",
+    "genres": ["Comedy", "Drama"],
+    "studio": "Studio Pierrot",
+    "seasons": 1,
+    "episodes": 43,
+    "description": "A former delinquent becomes a teacher and uses unconventional methods to help troubled students. The anime balances humor with meaningful life lessons."
+  },
+  {
+    "id": 46,
+    "name": "Beck",
+    "status": "Completed",
+    "genres": ["Music", "Drama"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 26,
+    "description": "A teenager discovers a passion for rock music and forms a band. The series explores ambition, creativity, and personal growth."
+  },
+  {
+    "id": 47,
+    "name": "Nana",
+    "status": "Completed",
+    "genres": ["Drama", "Romance"],
+    "studio": "Madhouse",
+    "seasons": 1,
+    "episodes": 47,
+    "description": "Two women sharing the same name form a close friendship while pursuing love and careers. The anime presents a realistic portrayal of adult relationships."
+  },
+  {
+    "id": 48,
+    "name": "Welcome to the NHK",
+    "status": "Completed",
+    "genres": ["Psychological", "Comedy", "Drama"],
+    "studio": "Gonzo",
+    "seasons": 1,
+    "episodes": 24,
+    "description": "A socially withdrawn man struggles with paranoia and isolation. The series mixes dark humor with an honest look at mental health."
+  },
+  {
+    "id": 49,
+    "name": "Air",
+    "status": "Completed",
+    "genres": ["Drama", "Supernatural", "Romance"],
+    "studio": "Kyoto Animation",
+    "seasons": 1,
+    "episodes": 12,
+    "description": "A traveling performer meets a girl bound by a mysterious curse. The story explores fate, family, and emotional sacrifice."
+  },
+  {
+    "id": 50,
+    "name": "Angel’s Egg",
+    "status": "Completed",
+    "genres": ["Fantasy", "Psychological"],
+    "studio": "Studio Deen",
+    "seasons": 1,
+    "episodes": 1,
+    "description": "A symbolic and visually striking film that explores faith, loss, and existential questions through minimal dialogue and imagery."
+  },
+{
+  "id": 51,
+  "name": "Shouwa Genroku Rakugo Shinjuu",
+  "status": "Completed",
+  "genres": ["Drama", "Historical"],
+  "studio": "Studio Deen",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "The story follows performers of the traditional Japanese art of rakugo across generations. It explores love, jealousy, regret, and the struggle to preserve art in a changing world."
+},
+{
+  "id": 52,
+  "name": "Megalo Box",
+  "status": "Completed",
+  "genres": ["Sports", "Drama", "Action"],
+  "studio": "TMS Entertainment",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "In a futuristic boxing world enhanced by technology, an underground fighter rises against the odds. The anime focuses on identity, pride, and perseverance."
+},
+{
+  "id": 53,
+  "name": "Casshern Sins",
+  "status": "Completed",
+  "genres": ["Action", "Psychological", "Sci-Fi"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "In a ruined world where robots face extinction, a mysterious warrior searches for meaning. The series explores immortality, guilt, and the nature of life."
+},
+{
+  "id": 54,
+  "name": "Gungrave",
+  "status": "Completed",
+  "genres": ["Action", "Drama", "Crime"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Two friends rise through the ranks of a criminal organization, but ambition and betrayal change their bond. The story emphasizes loyalty, power, and revenge."
+},
+{
+  "id": 55,
+  "name": "Last Exile",
+  "status": "Completed",
+  "genres": ["Adventure", "Sci-Fi", "Drama"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "In a world dominated by aerial combat, young pilots become entangled in a global conflict. The anime blends steampunk aesthetics with political drama."
+},
+{
+  "id": 56,
+  "name": "Scrapped Princess",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A princess destined to destroy the world is protected by her siblings as they uncover hidden truths. The series explores destiny, family, and free will."
+},
+{
+  "id": 57,
+  "name": "Chrono Crusade",
+  "status": "Completed",
+  "genres": ["Action", "Supernatural", "Drama"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A nun partnered with a demon hunts evil spirits while seeking her lost brother. The story balances action with emotional sacrifice."
+},
+{
+  "id": 58,
+  "name": "Blue Gender",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Action", "Horror"],
+  "studio": "AIC",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Humans fight for survival against monstrous creatures after Earth becomes uninhabitable. The anime explores fear, adaptation, and human resilience."
+},
+{
+  "id": 59,
+  "name": "RahXephon",
+  "status": "Completed",
+  "genres": ["Mecha", "Psychological", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A young man pilots a mysterious machine tied to music and fate. The story delves into identity, love, and reality."
+},
+{
+  "id": 60,
+  "name": "Now and Then, Here and There",
+  "status": "Completed",
+  "genres": ["Drama", "Sci-Fi", "Psychological"],
+  "studio": "AIC",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A boy is transported to a war-torn world where children are forced into combat. The anime presents a harsh depiction of war and human suffering."
+},
+{
+  "id": 61,
+  "name": "A Place Further Than the Universe",
+  "status": "Completed",
+  "genres": ["Adventure", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Four girls embark on a journey to Antarctica seeking purpose and personal growth. The series celebrates friendship and determination."
+},
+{
+  "id": 62,
+  "name": "Silver Spoon",
+  "status": "Completed",
+  "genres": ["Slice of Life", "Drama"],
+  "studio": "A-1 Pictures",
+  "seasons": 2,
+  "episodes": 22,
+  "description": "A city boy enrolls in an agricultural school, learning about farming and responsibility. The anime focuses on self-discovery and hard work."
+},
+{
+  "id": 63,
+  "name": "Dennou Coil",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Mystery", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Children use augmented reality glasses that blur digital and real worlds. The series explores technology, memory, and childhood curiosity."
+},
+{
+  "id": 64,
+  "name": "Kaiba",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Psychological", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "In a world where memories and bodies can be exchanged, a young boy searches for his past. The anime uses a simple art style to explore deep themes."
+},
+{
+  "id": 65,
+  "name": "Kyousougiga",
+  "status": "Completed",
+  "genres": ["Fantasy", "Action", "Drama"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "A surreal story of a family trapped between worlds and gods. The anime blends mythology, emotion, and experimental storytelling."
+},
+{
+  "id": 66,
+  "name": "Zetsuen no Tempest",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama", "Mystery"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A tragedy-driven tale involving magic, revenge, and fate. The series draws inspiration from Shakespearean themes."
+},
+{
+  "id": 67,
+  "name": "Darker than Black",
+  "status": "Completed",
+  "genres": ["Action", "Mystery", "Sci-Fi"],
+  "studio": "Bones",
+  "seasons": 2,
+  "episodes": 42,
+  "description": "Superpowered individuals known as Contractors operate under strict rules. The anime blends espionage with supernatural elements."
+},
+{
+  "id": 68,
+  "name": "Phantom: Requiem for the Phantom",
+  "status": "Completed",
+  "genres": ["Action", "Drama", "Psychological"],
+  "studio": "Bee Train",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A kidnapped man is trained as an assassin and forced into a violent underworld. The story explores loss of identity and morality."
+},
+{
+  "id": 69,
+  "name": "PlanetES",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Space debris collectors face danger and personal challenges in orbit. The anime provides a grounded take on space exploration."
+},
+{
+  "id": 70,
+  "name": "Bartender",
+  "status": "Completed",
+  "genres": ["Slice of Life", "Drama"],
+  "studio": "Palm Studio",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "A skilled bartender listens to customers' stories while serving the perfect drink. Each episode reflects human emotions and healing."
+},
+{
+  "id": 71,
+  "name": "Pluto",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Mystery", "Drama"],
+  "studio": "Studio M2",
+  "seasons": 1,
+  "episodes": 8,
+  "description": "A detective investigates murders involving robots and humans in a futuristic world. The series explores justice and humanity."
+},
+{
+  "id": 72,
+  "name": "ID: Invaded",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Psychological", "Mystery"],
+  "studio": "NAZ",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Detectives dive into fragmented mental worlds to solve crimes. The anime blends psychology with science fiction concepts."
+},
+{
+  "id": 73,
+  "name": "Akudama Drive",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi", "Crime"],
+  "studio": "Pierrot",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Criminals known as Akudama carry out high-risk missions in a dystopian city. The series emphasizes chaos and rebellion."
+},
+{
+  "id": 74,
+  "name": "Cyberpunk: Edgerunners",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi", "Drama"],
+  "studio": "Studio Trigger",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "A street kid becomes a mercenary in a corrupt futuristic city. The anime explores survival, ambition, and loss."
+},
+{
+  "id": 75,
+  "name": "Texhnolyze",
+  "status": "Completed",
+  "genres": ["Psychological", "Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 22,
+  "description": "A bleak and philosophical story set in an underground city. The anime examines despair, power, and human existence."
+},
+{
+  "id": 76,
+  "name": "Flag",
+  "status": "Completed",
+  "genres": ["Drama", "Military"],
+  "studio": "The Answer Studio",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A realistic depiction of modern warfare told through the lens of a photojournalist. The series focuses on media and conflict."
+},
+{
+  "id": 77,
+  "name": "Kurau Phantom Memory",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A young girl bonded with an energy being searches for connection in a hostile world. The anime explores identity and humanity."
+},
+{
+  "id": 78,
+  "name": "Toward the Terra",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Minami Machi Bugyousho",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Psychic humans struggle for survival against an oppressive system. The anime examines evolution and coexistence."
+},
+{
+  "id": 79,
+  "name": "Kemonozume",
+  "status": "Completed",
+  "genres": ["Action", "Horror", "Romance"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A forbidden love between a demon hunter and a monster challenges tradition. The anime uses experimental visuals and intense emotion."
+},
+{
+  "id": 80,
+  "name": "Devilman Lady",
+  "status": "Completed",
+  "genres": ["Horror", "Psychological"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A dark spin-off exploring identity, transformation, and human desire. The series presents intense psychological themes."
+},
+{
+  "id": 81,
+  "name": "Gunbuster",
+  "status": "Completed",
+  "genres": ["Mecha", "Sci-Fi", "Drama"],
+  "studio": "Gainax",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "A young pilot trains to defend humanity from alien threats. The anime blends mecha action with emotional storytelling."
+},
+{
+  "id": 82,
+  "name": "Serial Experiments Lain",
+  "status": "Completed",
+  "genres": ["Psychological", "Sci-Fi", "Mystery"],
+  "studio": "Triangle Staff",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A quiet girl becomes entangled with a vast digital network. The anime questions reality, identity, and technology."
+},
+{
+  "id": 83,
+  "name": "Gankutsuou",
+  "status": "Completed",
+  "genres": ["Drama", "Mystery", "Sci-Fi"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A futuristic retelling of The Count of Monte Cristo. The anime focuses on revenge, betrayal, and justice."
+},
+{
+  "id": 84,
+  "name": "Blue Submarine No. 6",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 4,
+  "description": "Humanity fights against an advanced undersea civilization. The anime blends CGI with traditional animation."
+},
+{
+  "id": 85,
+  "name": "S-CRY-ed",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Two rivals with supernatural abilities clash in a divided society. The anime focuses on freedom and power."
+},
+{
+  "id": 86,
+  "name": "Bokurano",
+  "status": "Completed",
+  "genres": ["Psychological", "Drama", "Mecha"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Children are forced to pilot a giant robot at the cost of their lives. The anime presents a grim take on responsibility and sacrifice."
+},
+{
+  "id": 87,
+  "name": "Canaan",
+  "status": "Completed",
+  "genres": ["Action", "Drama"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A deadly assassin becomes involved in a global conspiracy. The series blends intense action with emotional conflict."
+},
+{
+  "id": 88,
+  "name": "Blood+",
+  "status": "Completed",
+  "genres": ["Action", "Horror", "Drama"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 50,
+  "description": "A girl with a mysterious past battles monstrous creatures threatening humanity. The anime focuses on identity and survival."
+},
+{
+  "id": 89,
+  "name": "Eden of the East",
+  "status": "Completed",
+  "genres": ["Mystery", "Drama", "Thriller"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "A man with no memory becomes involved in a high-stakes game affecting Japan's future. The series blends suspense with social commentary."
+},
+{
+  "id": 90,
+  "name": "Dennou Coil",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Mystery"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Children use augmented reality glasses that blur the line between real and digital worlds. The anime explores technology and curiosity."
+},
+{
+  "id": 91,
+  "name": "Haibane Renmei",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama", "Psychological"],
+  "studio": "Radix",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Winged beings live quiet lives while seeking redemption and understanding. The series is symbolic and introspective."
+},
+{
+  "id": 92,
+  "name": "Texhnolyze",
+  "status": "Completed",
+  "genres": ["Psychological", "Sci-Fi"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 22,
+  "description": "A grim narrative set in a decaying city where humanity faces extinction. The anime explores nihilism and survival."
+},
+{
+  "id": 93,
+  "name": "Chronicles of the Clueless Age",
+  "status": "Completed",
+  "genres": ["Drama"],
+  "studio": "Studio Deen",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A lesser-known drama focusing on youth and uncertainty in a changing world."
+},
+{
+  "id": 94,
+  "name": "Scrapped Princess",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A princess fated to destroy the world is protected by her siblings. The anime explores destiny and love."
+},
+{
+  "id": 95,
+  "name": "Angel Cop",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "Studio Pierrot",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "A violent cyberpunk OVA centered on law enforcement and political unrest."
+},
+{
+  "id": 96,
+  "name": "Devil Survivor 2",
+  "status": "Completed",
+  "genres": ["Action", "Supernatural"],
+  "studio": "Bridge",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Humanity faces extinction as supernatural beings appear. Characters struggle with fate and survival."
+},
+{
+  "id": 97,
+  "name": "Boogiepop Phantom",
+  "status": "Completed",
+  "genres": ["Psychological", "Horror"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A fragmented narrative exploring urban legends and psychological trauma."
+},
+{
+  "id": 98,
+  "name": "Mononoke",
+  "status": "Completed",
+  "genres": ["Horror", "Mystery"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A mysterious medicine seller exorcises spirits by uncovering their truth. The anime is known for its unique art style."
+},
+{
+  "id": 99,
+  "name": "Pet",
+  "status": "Completed",
+  "genres": ["Psychological", "Thriller"],
+  "studio": "Geno Studio",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Individuals manipulate memories for criminal purposes. The series explores power and control over the mind."
+},
+{
+  "id": 100,
+  "name": "Shiki",
+  "status": "Completed",
+  "genres": ["Horror", "Mystery", "Psychological"],
+  "studio": "Daume",
+  "seasons": 1,
+  "episodes": 22,
+  "description": "A remote village faces a series of mysterious deaths linked to supernatural beings. The anime explores fear and morality."
+}
+,
+{
+  "id": 101,
+  "name": "Great Pretender",
+  "status": "Completed",
+  "genres": ["Drama", "Crime", "Comedy"],
+  "studio": "Wit Studio",
+  "seasons": 2,
+  "episodes": 23,
+  "description": "A small-time con artist is pulled into elaborate international scams. The anime blends stylish visuals with clever storytelling and character-driven drama."
+},
+{
+  "id": 102,
+  "name": "Death Parade",
+  "status": "Completed",
+  "genres": ["Psychological", "Drama", "Mystery"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "People who die at the same time are judged through twisted games. The series explores morality, memory, and the value of human life."
+},
+{
+  "id": 103,
+  "name": "Terror in Resonance",
+  "status": "Completed",
+  "genres": ["Thriller", "Psychological", "Drama"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "Two teenagers carry out cryptic terrorist acts in Tokyo while hiding a tragic past. The anime focuses on alienation, justice, and consequence."
+},
+{
+  "id": 104,
+  "name": "Made in Abyss",
+  "status": "Completed",
+  "genres": ["Adventure", "Fantasy", "Drama"],
+  "studio": "Kinema Citrus",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "Children descend into a vast and dangerous abyss searching for truth and loved ones. The series contrasts innocence with extreme cruelty."
+},
+{
+  "id": 105,
+  "name": "Land of the Lustrous",
+  "status": "Completed",
+  "genres": ["Fantasy", "Action", "Drama"],
+  "studio": "Orange",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Gem-like beings fight mysterious invaders while questioning identity and purpose. The anime is praised for its unique CGI and emotional depth."
+},
+{
+  "id": 106,
+  "name": "House of Five Leaves",
+  "status": "Completed",
+  "genres": ["Historical", "Drama"],
+  "studio": "Manglobe",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A timid samurai becomes involved with an unconventional crime family. The story focuses on loyalty, belonging, and quiet character development."
+},
+{
+  "id": 107,
+  "name": "Ping Pong",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Tatsunoko Production",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "Two childhood friends pursue table tennis while confronting ambition and self-worth. The anime emphasizes personal growth over competition."
+},
+{
+  "id": 108,
+  "name": "Orange",
+  "status": "Completed",
+  "genres": ["Drama", "Romance", "Sci-Fi"],
+  "studio": "Telecom Animation Film",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A girl receives letters from her future self warning of regrets. The story centers on friendship, mental health, and changing fate."
+},
+{
+  "id": 109,
+  "name": "ReLIFE",
+  "status": "Completed",
+  "genres": ["Drama", "Romance", "Slice of Life"],
+  "studio": "TMS Entertainment",
+  "seasons": 1,
+  "episodes": 17,
+  "description": "An unemployed man is given the chance to relive high school for one year. The anime explores regret, growth, and second chances."
+},
+{
+  "id": 110,
+  "name": "Tsuki ga Kirei",
+  "status": "Completed",
+  "genres": ["Romance", "Drama"],
+  "studio": "Feel",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Two shy middle school students experience their first love. The anime presents a realistic and gentle portrayal of young romance."
+},
+{
+  "id": 111,
+  "name": "Devilman: Crybaby",
+  "status": "Completed",
+  "genres": ["Action", "Horror", "Psychological"],
+  "studio": "Science SARU",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "A modern retelling of the Devilman story focusing on humanity, destruction, and empathy. The series is intense and emotionally heavy."
+},
+{
+  "id": 112,
+  "name": "A Silent Voice",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "Kyoto Animation",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A former bully seeks redemption by reconnecting with a deaf girl he once hurt. The story deals with guilt, forgiveness, and healing."
+},
+{
+  "id": 113,
+  "name": "The Girl Who Leapt Through Time",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama", "Romance"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A high school girl gains the ability to leap through time. The anime explores youth, consequences, and growing up."
+},
+{
+  "id": 114,
+  "name": "Perfect Blue",
+  "status": "Completed",
+  "genres": ["Psychological", "Thriller"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A pop idol’s transition to acting leads to paranoia and identity breakdown. The film explores fame, obsession, and mental instability."
+},
+{
+  "id": 115,
+  "name": "Millennium Actress",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "An actress recounts her life story as memories blend with film roles. The anime presents a poetic exploration of love and memory."
+},
+{
+  "id": 116,
+  "name": "Paprika",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Psychological"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A device that allows entry into dreams is stolen, causing chaos between reality and fantasy. The film is visually imaginative and symbolic."
+},
+{
+  "id": 117,
+  "name": "Redline",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi", "Sports"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "An extreme intergalactic race pushes drivers beyond physical limits. The anime is known for its hand-drawn animation and adrenaline."
+},
+{
+  "id": 118,
+  "name": "Grave of the Fireflies",
+  "status": "Completed",
+  "genres": ["Drama", "Historical"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Two siblings struggle to survive during wartime Japan. The film presents a heartbreaking portrayal of loss and resilience."
+},
+{
+  "id": 119,
+  "name": "Spirited Away",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young girl becomes trapped in a spirit world and must find her way home. The film explores identity, courage, and growth."
+},
+{
+  "id": 120,
+  "name": "Princess Mononoke",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure", "Drama"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young warrior is caught between nature and industrialization. The story explores environmental conflict and coexistence."
+},
+{
+  "id": 121,
+  "name": "Wolf Children",
+  "status": "Completed",
+  "genres": ["Drama", "Fantasy"],
+  "studio": "Studio Chizu",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A mother raises two children who can transform into wolves. The film focuses on family, sacrifice, and acceptance."
+},
+{
+  "id": 122,
+  "name": "Summer Time Rendering",
+  "status": "Completed",
+  "genres": ["Thriller", "Mystery", "Supernatural"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 25,
+  "description": "A man returns to his hometown where deaths repeat in a time loop. The anime blends suspense with supernatural elements."
+},
+{
+  "id": 123,
+  "name": "Akira Kurosawa's Dreams",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A series of dream-like vignettes inspired by imagination and reflection. The work explores art, fear, and nature."
+},
+{
+  "id": 124,
+  "name": "Sonny Boy",
+  "status": "Completed",
+  "genres": ["Psychological", "Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Students drift through alternate dimensions while confronting isolation and freedom. The anime is abstract and philosophical."
+},
+{
+  "id": 125,
+  "name": "Katanagatari",
+  "status": "Completed",
+  "genres": ["Action", "Adventure", "Drama"],
+  "studio": "White Fox",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A strategist and a swordsman search for legendary blades. The anime emphasizes dialogue, strategy, and character development."
+},
+{
+  "id": 126,
+  "name": "Gosick",
+  "status": "Completed",
+  "genres": ["Mystery", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A brilliant girl solves mysteries in a European-style academy. The anime blends deduction with personal drama."
+},
+{
+  "id": 127,
+  "name": "Another",
+  "status": "Completed",
+  "genres": ["Horror", "Mystery"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A cursed classroom experiences gruesome deaths. The anime builds tension through atmosphere and mystery."
+},
+{
+  "id": 128,
+  "name": "The Garden of Words",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "CoMix Wave Films",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A quiet relationship forms between a student and an older woman. The film focuses on loneliness and emotional healing."
+},
+{
+  "id": 129,
+  "name": "Tokyo Godfathers",
+  "status": "Completed",
+  "genres": ["Drama", "Comedy"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Three homeless individuals discover an abandoned baby on Christmas Eve. The film blends humor with heartfelt moments."
+},
+{
+  "id": 130,
+  "name": "Tekkonkinkreet",
+  "status": "Completed",
+  "genres": ["Action", "Drama"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Two street orphans protect their city from corruption. The film explores friendship and survival through stylized animation."
+},
+{
+  "id": 131,
+  "name": "Hinamatsuri",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Feel",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A yakuza member’s life changes when a psychic girl appears. The anime balances absurd humor with emotional moments."
+},
+{
+  "id": 132,
+  "name": "Daily Lives of High School Boys",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A series of comedic skits centered on ordinary high school boys. The anime focuses on exaggerated everyday humor."
+},
+{
+  "id": 133,
+  "name": "Asobi Asobase",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Lerche",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Three girls form a club dedicated to games and chaos. The anime is known for its extreme humor and expressions."
+},
+{
+  "id": 134,
+  "name": "Nichijou",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Kyoto Animation",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Ordinary daily life escalates into absurd and surreal comedy. The anime is highly stylized and energetic."
+},
+{
+  "id": 135,
+  "name": "Azumanga Daioh",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "J.C.Staff",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A group of girls navigate school life through humorous interactions. The anime is lighthearted and character-driven."
+},
+{
+  "id": 136,
+  "name": "K-On!",
+  "status": "Completed",
+  "genres": ["Music", "Slice of Life"],
+  "studio": "Kyoto Animation",
+  "seasons": 2,
+  "episodes": 41,
+  "description": "Girls form a light music club and build friendships through music. The series emphasizes warmth and everyday joy."
+},
+{
+  "id": 137,
+  "name": "Chihayafuru",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 3,
+  "episodes": 74,
+  "description": "Students compete in competitive karuta while chasing dreams and relationships. The anime blends sports with emotional growth."
+},
+{
+  "id": 138,
+  "name": "Run with the Wind",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 23,
+  "description": "College students train for a long-distance relay marathon. The anime focuses on teamwork and perseverance."
+},
+{
+  "id": 139,
+  "name": "Sakamichi no Apollon",
+  "status": "Completed",
+  "genres": ["Music", "Drama"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Two students bond through jazz music and friendship. The anime emphasizes emotional expression through music."
+},
+{
+  "id": 140,
+  "name": "Sk8 the Infinity",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Skateboarders compete in secret underground races. The anime highlights passion, rivalry, and self-expression."
+},
+{
+  "id": 141,
+  "name": "Orange Road",
+  "status": "Completed",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Studio Pierrot",
+  "seasons": 1,
+  "episodes": 48,
+  "description": "A boy with psychic powers navigates a complicated love triangle. The anime blends romance with supernatural comedy."
+},
+{
+  "id": 142,
+  "name": "Maison Ikkoku",
+  "status": "Completed",
+  "genres": ["Romance", "Drama"],
+  "studio": "Studio Deen",
+  "seasons": 1,
+  "episodes": 96,
+  "description": "A slow-burning romantic story set in a boarding house. The anime focuses on adult relationships and patience."
+},
+{
+  "id": 143,
+  "name": "Touch",
+  "status": "Completed",
+  "genres": ["Sports", "Drama", "Romance"],
+  "studio": "Group TAC",
+  "seasons": 1,
+  "episodes": 101,
+  "description": "Twin brothers pursue baseball and love while dealing with tragedy. The anime is a classic coming-of-age story."
+},
+{
+  "id": 144,
+  "name": "Cross Game",
+  "status": "Completed",
+  "genres": ["Sports", "Drama", "Romance"],
+  "studio": "SynergySP",
+  "seasons": 1,
+  "episodes": 50,
+  "description": "A baseball journey shaped by childhood promises and loss. The anime blends sports with emotional storytelling."
+},
+{
+  "id": 145,
+  "name": "Ping Pong Club",
+  "status": "Completed",
+  "genres": ["Comedy", "Sports"],
+  "studio": "Group TAC",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A crude comedy centered around a dysfunctional table tennis club. The anime focuses on exaggerated humor."
+},
+{
+  "id": 146,
+  "name": "Hajime no Ippo",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 3,
+  "episodes": 127,
+  "description": "A bullied student finds purpose through boxing. The anime highlights perseverance, discipline, and growth."
+},
+{
+  "id": 147,
+  "name": "Slam Dunk",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 101,
+  "description": "A delinquent joins a basketball team and discovers passion for the sport. The anime is a landmark sports series."
+},
+{
+  "id": 148,
+  "name": "Ashita no Joe",
+  "status": "Completed",
+  "genres": ["Sports", "Drama"],
+  "studio": "Mushi Production",
+  "seasons": 2,
+  "episodes": 79,
+  "description": "A troubled youth rises through the world of boxing. The series explores struggle, pride, and sacrifice."
+},
+{
+  "id": 149,
+  "name": "Future Boy Conan",
+  "status": "Completed",
+  "genres": ["Adventure", "Sci-Fi"],
+  "studio": "Nippon Animation",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A boy explores a post-apocalyptic world filled with adventure and hope. The anime emphasizes optimism and exploration."
+},
+{
+  "id": 150,
+  "name": "Space Dandy",
+  "status": "Completed",
+  "genres": ["Comedy", "Sci-Fi"],
+  "studio": "Bones",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "An eccentric alien hunter travels the universe encountering bizarre worlds. The anime blends comedy with experimental storytelling."
+}
+,
+{
+  "id": 151,
+  "name": "Moribito: Guardian of the Spirit",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure", "Drama"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A spearwoman protects a cursed prince destined to bring disaster. The anime blends rich world-building with themes of duty and redemption."
+},
+{
+  "id": 152,
+  "name": "Seirei no Moribito",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A guardian warrior takes on the task of saving a young prince from a deadly prophecy. The story emphasizes culture, responsibility, and survival."
+},
+{
+  "id": 153,
+  "name": "The Big O",
+  "status": "Completed",
+  "genres": ["Mecha", "Mystery", "Sci-Fi"],
+  "studio": "Sunrise",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "In a city where everyone lost their memories, a negotiator pilots a giant robot to maintain order. The anime explores identity and noir themes."
+},
+{
+  "id": 154,
+  "name": "Elfen Lied",
+  "status": "Completed",
+  "genres": ["Horror", "Psychological", "Drama"],
+  "studio": "Arms",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A mutated girl with deadly powers escapes captivity, leaving destruction behind. The anime explores trauma, isolation, and humanity."
+},
+{
+  "id": 155,
+  "name": "Noein: To Your Other Self",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Satelight",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Children become involved in a conflict between parallel worlds. The series blends science fiction with emotional coming-of-age themes."
+},
+{
+  "id": 156,
+  "name": "Xam'd: Lost Memories",
+  "status": "Completed",
+  "genres": ["Action", "Sci-Fi", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "A boy gains a mysterious power during a terrorist attack and becomes entangled in war. The anime explores freedom and sacrifice."
+},
+{
+  "id": 157,
+  "name": "Dennou Coil: Cyberkids",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 26,
+  "description": "Children navigate a world enhanced by augmented reality glasses. The anime focuses on curiosity, memory, and digital consequences."
+},
+{
+  "id": 158,
+  "name": "Crest of the Stars",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Adventure"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A young noble and an alien princess travel through space during an interstellar war. The series emphasizes strategy and diplomacy."
+},
+{
+  "id": 159,
+  "name": "Banner of the Stars",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Adventure"],
+  "studio": "Sunrise",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "Continuing a galactic conflict, characters face political and military challenges. The anime focuses on leadership and loyalty."
+},
+{
+  "id": 160,
+  "name": "Jin-Roh: The Wolf Brigade",
+  "status": "Completed",
+  "genres": ["Drama", "Psychological"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A soldier questions his role in a brutal police force. The film explores guilt, authority, and the cost of obedience."
+},
+{
+  "id": 161,
+  "name": "Tokyo Magnitude 8.0",
+  "status": "Completed",
+  "genres": ["Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "Two siblings struggle to survive after a massive earthquake strikes Tokyo. The anime presents realism and emotional resilience."
+},
+{
+  "id": 162,
+  "name": "Kaiji: Against All Rules",
+  "status": "Completed",
+  "genres": ["Psychological", "Thriller"],
+  "studio": "Madhouse",
+  "seasons": 2,
+  "episodes": 52,
+  "description": "A desperate man is drawn into high-stakes gambling scenarios. The series focuses on tension, strategy, and human greed."
+},
+{
+  "id": 163,
+  "name": "Welcome to Irabu's Office",
+  "status": "Completed",
+  "genres": ["Comedy", "Psychological"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 11,
+  "description": "Patients with psychological issues visit an eccentric psychiatrist. The anime uses humor to address mental health."
+},
+{
+  "id": 164,
+  "name": "Ping Pong Girls",
+  "status": "Completed",
+  "genres": ["Sports", "Comedy"],
+  "studio": "Hoods Entertainment",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "High school girls compete in table tennis while developing friendships. The series mixes sports action with light comedy."
+},
+{
+  "id": 165,
+  "name": "Ride Your Wave",
+  "status": "Completed",
+  "genres": ["Romance", "Drama"],
+  "studio": "Science SARU",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young woman copes with loss after the death of her boyfriend. The film explores grief, love, and emotional healing."
+},
+{
+  "id": 166,
+  "name": "The Night Is Short, Walk On Girl",
+  "status": "Completed",
+  "genres": ["Comedy", "Romance"],
+  "studio": "Science SARU",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A surreal night in Kyoto follows eccentric characters and chance encounters. The film celebrates youth and spontaneity."
+},
+{
+  "id": 167,
+  "name": "Penguindrum",
+  "status": "Completed",
+  "genres": ["Psychological", "Drama", "Mystery"],
+  "studio": "Brain's Base",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Siblings attempt to save their sister using a mysterious penguin hat. The anime uses symbolism to explore fate and love."
+},
+{
+  "id": 168,
+  "name": "Kids Return",
+  "status": "Completed",
+  "genres": ["Drama"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Two delinquents struggle to find purpose after leaving school. The film presents a raw look at youth and failure."
+},
+{
+  "id": 169,
+  "name": "Aoi Bungaku Series",
+  "status": "Completed",
+  "genres": ["Drama", "Psychological"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Adaptations of classic Japanese literature exploring despair, identity, and morality. Each arc presents a unique narrative style."
+},
+{
+  "id": 170,
+  "name": "Colorful",
+  "status": "Completed",
+  "genres": ["Drama", "Psychological"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A soul is given a second chance at life to uncover past mistakes. The film focuses on forgiveness and self-acceptance."
+},
+{
+  "id": 171,
+  "name": "GTO: Great Teacher Onizuka (OVA)",
+  "status": "Completed",
+  "genres": ["Comedy", "Drama"],
+  "studio": "Studio Pierrot",
+  "seasons": 1,
+  "episodes": 2,
+  "description": "Additional stories expanding the unconventional teaching methods of Onizuka. The OVA continues themes of guidance and redemption."
+},
+{
+  "id": 172,
+  "name": "Mind Game",
+  "status": "Completed",
+  "genres": ["Psychological", "Comedy"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A man experiences a surreal journey through life and death. The film is experimental and celebrates human potential."
+},
+{
+  "id": 173,
+  "name": "Metropolis",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A futuristic city struggles with class division between humans and robots. The film explores technology and coexistence."
+},
+{
+  "id": 174,
+  "name": "Barefoot Gen",
+  "status": "Completed",
+  "genres": ["Historical", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young boy survives the atomic bombing of Hiroshima. The film presents the harsh realities of war."
+},
+{
+  "id": 175,
+  "name": "Royal Space Force: The Wings of Honnêamise",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Gainax",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A struggling space program aims to launch humanity’s first rocket. The film focuses on ambition and belief."
+},
+{
+  "id": 176,
+  "name": "Time of Eve",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Studio Rikka",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "Humans and androids coexist under strict rules. The anime explores empathy and artificial intelligence."
+},
+{
+  "id": 177,
+  "name": "Dennou Taisen",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "Gonzo",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A digital battle determines control over future technology. The film focuses on virtual conflict."
+},
+{
+  "id": 178,
+  "name": "Night on the Galactic Railroad",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Group TAC",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Two boys travel through space on a symbolic train journey. The film explores spirituality and loss."
+},
+{
+  "id": 179,
+  "name": "Giovanni's Island",
+  "status": "Completed",
+  "genres": ["Drama", "Historical"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Children experience war and displacement on a remote island. The film focuses on friendship and survival."
+},
+{
+  "id": 180,
+  "name": "Pom Poko",
+  "status": "Completed",
+  "genres": ["Fantasy", "Comedy", "Drama"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Raccoon dogs use magical powers to protect their habitat. The film explores environmentalism and change."
+},
+{
+  "id": 181,
+  "name": "Only Yesterday",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A woman reflects on childhood memories while visiting the countryside. The film explores nostalgia and self-discovery."
+},
+{
+  "id": 182,
+  "name": "From Up on Poppy Hill",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Students work together to save their school clubhouse. The film focuses on youth and tradition."
+},
+{
+  "id": 183,
+  "name": "When Marnie Was There",
+  "status": "Completed",
+  "genres": ["Drama", "Mystery"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A lonely girl befriends a mysterious girl living by the marsh. The story explores friendship and identity."
+},
+{
+  "id": 184,
+  "name": "The Wind Rises",
+  "status": "Completed",
+  "genres": ["Drama", "Historical"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A gifted engineer dreams of designing airplanes during wartime Japan. The film blends ambition with tragedy."
+},
+{
+  "id": 185,
+  "name": "Porco Rosso",
+  "status": "Completed",
+  "genres": ["Adventure", "Drama"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A pilot cursed to look like a pig flies in the Adriatic Sea. The film explores honor, love, and freedom."
+},
+{
+  "id": 186,
+  "name": "The Tale of the Princess Kaguya",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A girl discovered inside a bamboo stalk grows into a noblewoman. The film explores beauty and impermanence."
+},
+{
+  "id": 187,
+  "name": "My Neighbors the Yamadas",
+  "status": "Completed",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Everyday family life is depicted through humorous vignettes. The film focuses on ordinary moments."
+},
+{
+  "id": 188,
+  "name": "Whisper of the Heart",
+  "status": "Completed",
+  "genres": ["Romance", "Drama"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young girl pursues writing while discovering love and ambition. The film emphasizes creativity and growth."
+},
+{
+  "id": 189,
+  "name": "Ocean Waves",
+  "status": "Completed",
+  "genres": ["Drama", "Romance"],
+  "studio": "Studio Ghibli",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A realistic portrayal of teenage relationships and misunderstandings. The film focuses on subtle emotions."
+},
+{
+  "id": 190,
+  "name": "Children Who Chase Lost Voices",
+  "status": "Completed",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "CoMix Wave Films",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A girl journeys to an underground world searching for closure. The film explores grief and acceptance."
+},
+{
+  "id": 191,
+  "name": "The Place Promised in Our Early Days",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama", "Romance"],
+  "studio": "CoMix Wave Films",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Friends are bound by a mysterious tower in an alternate Japan. The film explores memory and distance."
+},
+{
+  "id": 192,
+  "name": "Voices of a Distant Star",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama", "Romance"],
+  "studio": "CoMix Wave Films",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Two lovers communicate across vast distances of space. The story focuses on separation and time."
+},
+{
+  "id": 193,
+  "name": "Tekkon Kinkreet: Black & White",
+  "status": "Completed",
+  "genres": ["Action", "Drama"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "Street children defend their city from corruption. The film explores chaos, order, and brotherhood."
+},
+{
+  "id": 194,
+  "name": "Sword of the Stranger",
+  "status": "Completed",
+  "genres": ["Action", "Adventure"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A wandering swordsman protects a young boy from assassins. The film is praised for its sword combat."
+},
+{
+  "id": 195,
+  "name": "Giants of the Sea",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Studio 4°C",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A surreal underwater journey exploring humanity and nature. The film uses experimental visuals."
+},
+{
+  "id": 196,
+  "name": "Summer Wars",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A virtual world crisis threatens reality during a family reunion. The film blends technology with tradition."
+},
+{
+  "id": 197,
+  "name": "Belle",
+  "status": "Completed",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Studio Chizu",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A shy girl finds confidence through a virtual singing world. The film explores identity and connection."
+},
+{
+  "id": 198,
+  "name": "Josee, the Tiger and the Fish",
+  "status": "Completed",
+  "genres": ["Romance", "Drama"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A college student forms a relationship with a disabled woman. The story focuses on empathy and growth."
+},
+{
+  "id": 199,
+  "name": "Maquia: When the Promised Flower Blooms",
+  "status": "Completed",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "An immortal girl raises a human child in a changing world. The film explores motherhood and time."
+},
+{
+  "id": 200,
+  "name": "In This Corner of the World",
+  "status": "Completed",
+  "genres": ["Drama", "Historical"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A young woman lives through wartime Japan with quiet resilience. The film focuses on everyday survival."
+}
+,
+{
+  "id": 201,
+  "name": "One Piece",
+  "status": "Ongoing",
+  "genres": ["Action", "Adventure", "Fantasy"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 1100,
+  "description": "Monkey D. Luffy sails the seas in search of the legendary One Piece. The series focuses on freedom, friendship, and adventure."
+},
+{
+  "id": 202,
+  "name": "Boruto: Naruto Next Generations",
+  "status": "Ongoing",
+  "genres": ["Action", "Adventure"],
+  "studio": "Studio Pierrot",
+  "seasons": 1,
+  "episodes": 293,
+  "description": "The story follows Naruto’s son as he grows up in a peaceful ninja world facing new threats. The anime explores legacy and growth."
+},
+{
+  "id": 203,
+  "name": "Black Clover",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Studio Pierrot",
+  "seasons": 1,
+  "episodes": 170,
+  "description": "A magicless boy aims to become the Wizard King through determination and hard work. The series emphasizes perseverance and rivalry."
+},
+{
+  "id": 204,
+  "name": "Jujutsu Kaisen",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural", "Dark Fantasy"],
+  "studio": "MAPPA",
+  "seasons": 2,
+  "episodes": 47,
+  "description": "Students battle cursed spirits born from negative emotions. The anime blends intense combat with dark psychological themes."
+},
+{
+  "id": 205,
+  "name": "Demon Slayer",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Ufotable",
+  "seasons": 4,
+  "episodes": 63,
+  "description": "A boy seeks to cure his demon sister while fighting powerful enemies. The anime is known for emotional storytelling and visuals."
+},
+{
+  "id": 206,
+  "name": "My Hero Academia",
+  "status": "Ongoing",
+  "genres": ["Action", "Superhero"],
+  "studio": "Bones",
+  "seasons": 7,
+  "episodes": 159,
+  "description": "In a world of superpowers, a powerless boy dreams of becoming a hero. The anime explores responsibility and heroism."
+},
+{
+  "id": 207,
+  "name": "Spy x Family",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Action"],
+  "studio": "Wit Studio",
+  "seasons": 2,
+  "episodes": 37,
+  "description": "A spy forms a fake family for a mission, unaware of their hidden secrets. The anime balances humor with action."
+},
+{
+  "id": 208,
+  "name": "Chainsaw Man",
+  "status": "Ongoing",
+  "genres": ["Action", "Horror"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A poor boy merges with a devil to survive in a brutal world. The anime explores desire, violence, and survival."
+},
+{
+  "id": 209,
+  "name": "Tokyo Revengers",
+  "status": "Ongoing",
+  "genres": ["Action", "Drama", "Time Travel"],
+  "studio": "Liden Films",
+  "seasons": 3,
+  "episodes": 50,
+  "description": "A man travels back in time to save his friends from a tragic fate. The story focuses on redemption and consequences."
+},
+{
+  "id": 210,
+  "name": "Blue Lock",
+  "status": "Ongoing",
+  "genres": ["Sports", "Psychological"],
+  "studio": "8bit",
+  "seasons": 2,
+  "episodes": 38,
+  "description": "Strikers compete in an intense program to create the ultimate soccer player. The anime emphasizes ego and ambition."
+},
+{
+  "id": 211,
+  "name": "Frieren: Beyond Journey’s End",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 28,
+  "description": "An elf mage reflects on time and loss after her journey ends. The anime focuses on memory, grief, and quiet growth."
+},
+{
+  "id": 212,
+  "name": "Solo Leveling",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "A-1 Pictures",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A weak hunter gains the ability to grow stronger endlessly. The anime centers on power progression and survival."
+},
+{
+  "id": 213,
+  "name": "The Rising of the Shield Hero",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Kinema Citrus",
+  "seasons": 3,
+  "episodes": 50,
+  "description": "A summoned hero must survive betrayal in a hostile world. The series focuses on trust, revenge, and perseverance."
+},
+{
+  "id": 214,
+  "name": "Re:Zero − Starting Life in Another World",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Psychological"],
+  "studio": "White Fox",
+  "seasons": 2,
+  "episodes": 50,
+  "description": "A boy relives death repeatedly to save those he loves. The anime explores trauma, despair, and determination."
+},
+{
+  "id": 215,
+  "name": "Mushoku Tensei",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Studio Bind",
+  "seasons": 2,
+  "episodes": 49,
+  "description": "A man is reincarnated and given a second chance at life. The anime focuses on growth, regret, and redemption."
+},
+{
+  "id": 216,
+  "name": "Dr. Stone",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Adventure"],
+  "studio": "TMS Entertainment",
+  "seasons": 3,
+  "episodes": 57,
+  "description": "Humanity rebuilds civilization using science after being petrified. The anime celebrates knowledge and innovation."
+},
+{
+  "id": 217,
+  "name": "Classroom of the Elite",
+  "status": "Ongoing",
+  "genres": ["Psychological", "Drama"],
+  "studio": "Lerche",
+  "seasons": 3,
+  "episodes": 38,
+  "description": "Elite students compete in mind games within a strict academic system. The anime explores manipulation and strategy."
+},
+{
+  "id": 218,
+  "name": "Hell’s Paradise",
+  "status": "Ongoing",
+  "genres": ["Action", "Dark Fantasy"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Criminals search for immortality on a deadly island. The anime blends violence with philosophical themes."
+},
+{
+  "id": 219,
+  "name": "Oshi no Ko",
+  "status": "Ongoing",
+  "genres": ["Drama", "Psychological"],
+  "studio": "Doga Kobo",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "The dark side of the entertainment industry is revealed through reincarnation. The anime explores fame and obsession."
+},
+{
+  "id": 220,
+  "name": "The Apothecary Diaries",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Drama"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A clever girl solves mysteries within an imperial court. The anime focuses on intelligence and observation."
+},
+{
+  "id": 221,
+  "name": "Undead Unluck",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "David Production",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Two cursed individuals clash against fate itself. The anime mixes chaos, humor, and action."
+},
+{
+  "id": 222,
+  "name": "Zom 100: Bucket List of the Dead",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Horror"],
+  "studio": "Bug Films",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A zombie apocalypse frees a man from corporate life. The anime mixes humor with survival themes."
+},
+{
+  "id": 223,
+  "name": "Wind Breaker",
+  "status": "Ongoing",
+  "genres": ["Action", "Drama"],
+  "studio": "CloverWorks",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Delinquents protect their town through strength and unity. The anime emphasizes honor and brotherhood."
+},
+{
+  "id": 224,
+  "name": "Kaiju No. 8",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A man gains the power to transform into a kaiju. The anime blends military action with monster combat."
+},
+{
+  "id": 225,
+  "name": "Shangri-La Frontier",
+  "status": "Ongoing",
+  "genres": ["Action", "Adventure"],
+  "studio": "C2C",
+  "seasons": 2,
+  "episodes": 37,
+  "description": "A gamer challenges an immersive virtual world. The anime focuses on exploration and skill mastery."
+},
+{
+  "id": 226,
+  "name": "Delicious in Dungeon",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Studio Trigger",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Adventurers survive a dungeon by cooking monsters. The anime blends fantasy with humor and creativity."
+},
+{
+  "id": 227,
+  "name": "Mashle: Magic and Muscles",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Fantasy"],
+  "studio": "A-1 Pictures",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A muscle-powered boy attends a magic academy. The anime parodies fantasy tropes with comedy."
+},
+{
+  "id": 228,
+  "name": "Tower of God",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Telecom Animation Film",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "Climbers challenge a mysterious tower to fulfill their desires. The story focuses on ambition and betrayal."
+},
+{
+  "id": 229,
+  "name": "Log Horizon",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Satelight",
+  "seasons": 3,
+  "episodes": 62,
+  "description": "Players become trapped in an online game world. The anime focuses on strategy and community building."
+},
+{
+  "id": 230,
+  "name": "Fire Force",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "David Production",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "Fire soldiers battle spontaneous human combustion. The anime blends action with mystery."
+},
+{
+  "id": 231,
+  "name": "That Time I Got Reincarnated as a Slime",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "8bit",
+  "seasons": 3,
+  "episodes": 72,
+  "description": "A man reincarnates as a slime and builds a nation. The anime focuses on diplomacy and power growth."
+},
+{
+  "id": 232,
+  "name": "Noragami",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "Bones",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "A minor god seeks fame by helping humans. The anime blends comedy with emotional depth."
+},
+{
+  "id": 233,
+  "name": "The Faraway Paladin",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Children's Playground Entertainment",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A boy is raised by undead guardians and learns values of faith and duty."
+},
+{
+  "id": 234,
+  "name": "Sword Art Online",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "A-1 Pictures",
+  "seasons": 4,
+  "episodes": 96,
+  "description": "Players are trapped in virtual reality games. The anime explores technology and relationships."
+},
+{
+  "id": 235,
+  "name": "Pluto (Reboot)",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Mystery"],
+  "studio": "Studio M2",
+  "seasons": 1,
+  "episodes": 8,
+  "description": "A modern adaptation of a classic sci-fi mystery involving robots and humanity."
+},
+{
+  "id": 236,
+  "name": "Blue Exorcist",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "A-1 Pictures",
+  "seasons": 3,
+  "episodes": 49,
+  "description": "A boy learns he is the son of Satan and trains as an exorcist. The anime focuses on identity and destiny."
+},
+{
+  "id": 237,
+  "name": "The Eminence in Shadow",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Nexus",
+  "seasons": 2,
+  "episodes": 32,
+  "description": "A man secretly controls events from the shadows. The anime parodies power fantasy tropes."
+},
+{
+  "id": 238,
+  "name": "Record of Ragnarok",
+  "status": "Ongoing",
+  "genres": ["Action", "Mythology"],
+  "studio": "Graphinica",
+  "seasons": 2,
+  "episodes": 27,
+  "description": "Gods and humans battle to decide humanity’s fate. The anime focuses on mythological combat."
+},
+{
+  "id": 239,
+  "name": "Vinland Saga (Final Arc)",
+  "status": "Ongoing",
+  "genres": ["Action", "Drama"],
+  "studio": "MAPPA",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "A warrior seeks peace after a violent past. The anime explores redemption and morality."
+},
+{
+  "id": 240,
+  "name": "Dead Mount Death Play",
+  "status": "Ongoing",
+  "genres": ["Supernatural", "Mystery"],
+  "studio": "Geek Toys",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A necromancer is reincarnated into modern Tokyo. The anime blends fantasy with urban mystery."
+},
+{
+  "id": 241,
+  "name": "Bungo Stray Dogs",
+  "status": "Ongoing",
+  "genres": ["Action", "Mystery"],
+  "studio": "Bones",
+  "seasons": 5,
+  "episodes": 61,
+  "description": "Detectives with supernatural abilities face criminal organizations. The anime mixes action and literary references."
+},
+{
+  "id": 242,
+  "name": "Shaman King (Reboot)",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "Bridge",
+  "seasons": 1,
+  "episodes": 52,
+  "description": "Shamans battle spirits to become the Shaman King. The anime focuses on harmony and strength."
+},
+{
+  "id": 243,
+  "name": "Mob Psycho 100 (Reigen Spin-off)",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Supernatural"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "A comedic spin-off focusing on Reigen’s adventures. The anime emphasizes humor and character charm."
+},
+{
+  "id": 244,
+  "name": "Ragna Crimson",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Silver Link",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A dragon hunter gains future knowledge to change fate. The anime blends tragedy with action."
+},
+{
+  "id": 245,
+  "name": "The Irregular at Magic High School",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "8bit",
+  "seasons": 3,
+  "episodes": 52,
+  "description": "Siblings attend a magic academy governed by strict hierarchy. The anime focuses on power and strategy."
+},
+{
+  "id": 246,
+  "name": "Goblin Slayer",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Action"],
+  "studio": "White Fox",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "An adventurer dedicates his life to exterminating goblins. The anime presents a grim fantasy world."
+},
+{
+  "id": 247,
+  "name": "The Ancient Magus’ Bride",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Wit Studio",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "A girl enters the world of magic and folklore. The anime emphasizes emotional healing."
+},
+{
+  "id": 248,
+  "name": "NieR: Automata Ver1.1a",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "A-1 Pictures",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Androids battle machines in a post-apocalyptic future. The anime explores identity and purpose."
+},
+{
+  "id": 249,
+  "name": "Metallic Rouge",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "An android assassin fights for justice in a futuristic society. The anime blends noir with sci-fi."
+},
+{
+  "id": 250,
+  "name": "Wistoria: Wand and Sword",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Actas",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A magicless boy enters a magic academy relying on sword skills. The anime emphasizes determination."
+}
+,
+{
+  "id": 251,
+  "name": "Blue Box",
+  "status": "Ongoing",
+  "genres": ["Romance", "Sports"],
+  "studio": "Telecom Animation Film",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A badminton player develops feelings for a basketball athlete living under the same roof. The anime blends romance with sports ambition."
+},
+{
+  "id": 252,
+  "name": "Mission: Yozakura Family",
+  "status": "Ongoing",
+  "genres": ["Action", "Comedy"],
+  "studio": "Silver Link",
+  "seasons": 1,
+  "episodes": 27,
+  "description": "A shy boy marries into a family of spies. The anime balances action-packed missions with family comedy."
+},
+{
+  "id": 253,
+  "name": "Go! Go! Loser Ranger!",
+  "status": "Ongoing",
+  "genres": ["Action", "Superhero", "Drama"],
+  "studio": "Yostar Pictures",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A low-ranking villain infiltrates a hero organization from within. The anime subverts traditional superhero tropes."
+},
+{
+  "id": 254,
+  "name": "Sand Land",
+  "status": "Ongoing",
+  "genres": ["Adventure", "Fantasy"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A demon prince joins humans to find a hidden water source in a desert world. The story focuses on friendship and exploration."
+},
+{
+  "id": 255,
+  "name": "Viral Hit",
+  "status": "Ongoing",
+  "genres": ["Action", "Drama"],
+  "studio": "Okuruto Noboru",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A bullied student rises through underground street fights broadcast online. The anime explores power and revenge."
+},
+{
+  "id": 256,
+  "name": "Bartender: Glass of God",
+  "status": "Ongoing",
+  "genres": ["Drama", "Slice of Life"],
+  "studio": "Liber",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A master bartender heals emotional wounds through carefully crafted drinks. The anime emphasizes calm storytelling."
+},
+{
+  "id": 257,
+  "name": "Unnamed Memory",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "ENGI",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A cursed prince seeks the help of a powerful witch. The anime focuses on fate, magic, and romance."
+},
+{
+  "id": 258,
+  "name": "Astro Note",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Sci-Fi"],
+  "studio": "Telecom Animation Film",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "An alien landlady and her tenants experience strange daily life events. The anime blends comedy with sci-fi charm."
+},
+{
+  "id": 259,
+  "name": "Jellyfish Can't Swim in the Night",
+  "status": "Ongoing",
+  "genres": ["Drama", "Slice of Life"],
+  "studio": "Doga Kobo",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Four girls struggle with creativity, identity, and online expression. The anime explores modern youth culture."
+},
+{
+  "id": 260,
+  "name": "A Condition Called Love",
+  "status": "Ongoing",
+  "genres": ["Romance", "Drama"],
+  "studio": "East Fish Studio",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A girl learns about love after meeting an intense classmate. The anime focuses on emotional boundaries and growth."
+},
+{
+  "id": 261,
+  "name": "The Elusive Samurai",
+  "status": "Ongoing",
+  "genres": ["Action", "Historical"],
+  "studio": "CloverWorks",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A young noble survives betrayal through speed and wit. The anime presents a unique take on samurai survival."
+},
+{
+  "id": 262,
+  "name": "A Nobody’s Way Up to an Exploration Hero",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Gekkou",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A low-ranked explorer gains rare abilities in dungeon expeditions. The anime focuses on gradual power growth."
+},
+{
+  "id": 263,
+  "name": "Why Does Nobody Remember Me in This World?",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Project No.9",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A soldier finds himself erased from history after a reality shift. The anime explores memory and existence."
+},
+{
+  "id": 264,
+  "name": "My Deer Friend Nokotan",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A former delinquent befriends a bizarre deer girl. The anime is filled with absurd humor."
+},
+{
+  "id": 265,
+  "name": "Failure Frame",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Action"],
+  "studio": "Seven Arcs",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A betrayed hero survives using cursed abilities. The anime emphasizes revenge and survival."
+},
+{
+  "id": 266,
+  "name": "Pseudo Harem",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Nomad",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A girl pretends to be multiple personalities to entertain her crush. The anime is lighthearted and playful."
+},
+{
+  "id": 267,
+  "name": "Makeine: Too Many Losing Heroines!",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "A-1 Pictures",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Side heroines deal with heartbreak and friendship. The anime focuses on emotional realism."
+},
+{
+  "id": 268,
+  "name": "The Magical Girl and the Evil Lieutenant",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A villain falls in love with the magical girl he should defeat. The anime subverts genre expectations."
+},
+{
+  "id": 269,
+  "name": "No Longer Allowed in Another World",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "AtelierPontdarc",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A depressed author is transported to another world unwillingly. The anime parodies isekai tropes."
+},
+{
+  "id": 270,
+  "name": "I Parry Everything",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A swordsman masters defense above all else. The anime focuses on unconventional combat."
+},
+{
+  "id": 271,
+  "name": "Sengoku Youko",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "White Fox",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "Humans and monsters clash during the Sengoku era. The anime explores coexistence and conflict."
+},
+{
+  "id": 272,
+  "name": "Rurouni Kenshin (2023)",
+  "status": "Ongoing",
+  "genres": ["Action", "Historical"],
+  "studio": "Liden Films",
+  "seasons": 2,
+  "episodes": 36,
+  "description": "A reformed assassin protects the innocent in Meiji-era Japan. The anime emphasizes redemption."
+},
+{
+  "id": 273,
+  "name": "Spice and Wolf (2024)",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Passione",
+  "seasons": 1,
+  "episodes": 25,
+  "description": "A merchant travels with a wise wolf goddess. The anime focuses on economics and companionship."
+},
+{
+  "id": 274,
+  "name": "Suicide Squad Isekai",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "DC villains are transported to a fantasy world. The anime blends western comics with isekai."
+},
+{
+  "id": 275,
+  "name": "Tensura Nikki",
+  "status": "Ongoing",
+  "genres": ["Slice of Life", "Fantasy"],
+  "studio": "8bit",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Daily life in the slime nation is explored through comedy and warmth."
+},
+{
+  "id": 276,
+  "name": "The Ossan Newbie Adventurer",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Yumeta Company",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A middle-aged man starts adventuring later in life. The anime focuses on persistence."
+},
+{
+  "id": 277,
+  "name": "Reborn as a Vending Machine",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Studio Gokumi",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A man reincarnates as a vending machine in a dungeon. The anime embraces absurd humor."
+},
+{
+  "id": 278,
+  "name": "The Kingdoms of Ruin",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Action"],
+  "studio": "Yokohama Animation Lab",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A revenge-driven mage battles a world that exterminated witches."
+},
+{
+  "id": 279,
+  "name": "My Instant Death Ability Is Overpowered",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Okuruto Noboru",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A boy with an unbeatable power navigates another world casually."
+},
+{
+  "id": 280,
+  "name": "A Salad Bowl of Eccentrics",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Fantasy"],
+  "studio": "SynergySP",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Fantasy characters adapt to modern city life. The anime is lighthearted and comedic."
+},
+{
+  "id": 281,
+  "name": "The New Gate",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Yokohama Animation Lab",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A top player is transported into the world of his completed game."
+},
+{
+  "id": 282,
+  "name": "Highspeed Etoile",
+  "status": "Ongoing",
+  "genres": ["Sports", "Sci-Fi"],
+  "studio": "Studio A-Cat",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Racers compete in futuristic high-speed racing leagues."
+},
+{
+  "id": 283,
+  "name": "Gods' Games We Play",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Psychological"],
+  "studio": "LIDENFILMS",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Humans challenge gods in mind-bending games. The anime focuses on strategy."
+},
+{
+  "id": 284,
+  "name": "The Witch and the Beast",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Mystery"],
+  "studio": "Yokohama Animation Lab",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Hunters pursue witches in a dark fantasy world. The anime emphasizes curses and revenge."
+},
+{
+  "id": 285,
+  "name": "Mr. Villain’s Day Off",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "Shin-Ei Animation",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A villain enjoys peaceful days away from work. The anime focuses on wholesome comedy."
+},
+{
+  "id": 286,
+  "name": "Train to the End of the World",
+  "status": "Ongoing",
+  "genres": ["Adventure", "Sci-Fi"],
+  "studio": "EMT Squared",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Girls ride a train through a distorted world. The anime explores surreal adventure."
+},
+{
+  "id": 287,
+  "name": "Metallic Rouge: Neon Genesis",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Androids fight for freedom in a neon-lit future."
+},
+{
+  "id": 288,
+  "name": "Tonari no Yokai-san",
+  "status": "Ongoing",
+  "genres": ["Slice of Life", "Supernatural"],
+  "studio": "LIDENFILMS",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Humans and yokai coexist peacefully in a rural town."
+},
+{
+  "id": 289,
+  "name": "Oblivion Battery",
+  "status": "Ongoing",
+  "genres": ["Sports", "Drama"],
+  "studio": "MAPPA",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A baseball prodigy loses his memory and returns to the sport."
+},
+{
+  "id": 290,
+  "name": "Sengoku Youko Part 2",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "White Fox",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "The conflict between humans and monsters intensifies."
+},
+{
+  "id": 291,
+  "name": "Dungeon People",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A girl becomes a dungeon administrator. The anime is quirky and humorous."
+},
+{
+  "id": 292,
+  "name": "Tasuketsu",
+  "status": "Ongoing",
+  "genres": ["Psychological", "Thriller"],
+  "studio": "Satelight",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A deadly game of majority votes determines survival."
+},
+{
+  "id": 293,
+  "name": "Grimm Variations",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Dark"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "Classic fairy tales are reimagined with dark twists."
+},
+{
+  "id": 294,
+  "name": "Kimi to Boku no Ashiato",
+  "status": "Ongoing",
+  "genres": ["Drama", "Slice of Life"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Young adults navigate careers and relationships."
+},
+{
+  "id": 295,
+  "name": "Rising Impact",
+  "status": "Ongoing",
+  "genres": ["Sports", "Drama"],
+  "studio": "Lay-duce",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A young golfer rises through competitive ranks."
+},
+{
+  "id": 296,
+  "name": "Kinnikuman Perfect Origin Arc",
+  "status": "Ongoing",
+  "genres": ["Action", "Sports"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Legendary wrestlers return for a new generation of battles."
+},
+{
+  "id": 297,
+  "name": "Shy Season 2",
+  "status": "Ongoing",
+  "genres": ["Superhero", "Drama"],
+  "studio": "8bit",
+  "seasons": 2,
+  "episodes": 12,
+  "description": "A timid hero continues her journey of self-confidence."
+},
+{
+  "id": 298,
+  "name": "Spice and Wolf: Merchant Meets the Wise Wolf",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Passione",
+  "seasons": 1,
+  "episodes": 25,
+  "description": "A remake continuing the journey of a merchant and a wolf deity."
+},
+{
+  "id": 299,
+  "name": "Bye Bye, Earth",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "LIDENFILMS",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "A girl searches for belonging in a beast-filled world."
+},
+{
+  "id": 300,
+  "name": "Senpai Is an Otokonoko",
+  "status": "Ongoing",
+  "genres": ["Romance", "Drama"],
+  "studio": "Project No.9",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A romantic story exploring identity and acceptance in school life."
+}
+,
+{
+  "id": 301,
+  "name": "Dan Da Dan",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural", "Comedy"],
+  "studio": "Science SARU",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Two high schoolers are dragged into battles involving ghosts and aliens. The anime blends absurd comedy with intense supernatural action."
+},
+{
+  "id": 302,
+  "name": "Blue Orchestra",
+  "status": "Ongoing",
+  "genres": ["Music", "Drama"],
+  "studio": "Nippon Animation",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "A former violin prodigy returns to music through an orchestra club. The anime emphasizes passion and emotional healing."
+},
+{
+  "id": 303,
+  "name": "The Fable",
+  "status": "Ongoing",
+  "genres": ["Action", "Comedy", "Crime"],
+  "studio": "Tezuka Productions",
+  "seasons": 1,
+  "episodes": 25,
+  "description": "A legendary hitman tries to live a normal life under strict orders. The anime blends crime action with dry humor."
+},
+{
+  "id": 304,
+  "name": "Yatagarasu: The Raven Does Not Choose Its Master",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Political"],
+  "studio": "Pierrot",
+  "seasons": 1,
+  "episodes": 20,
+  "description": "Political intrigue unfolds in a fantasy world inspired by Japanese mythology. The anime focuses on loyalty and power."
+},
+{
+  "id": 305,
+  "name": "Girls Band Cry",
+  "status": "Ongoing",
+  "genres": ["Music", "Drama"],
+  "studio": "Toei Animation",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Five girls form a rock band while dealing with personal struggles. The anime emphasizes raw emotion and youth rebellion."
+},
+{
+  "id": 306,
+  "name": "Whisper Me a Love Song",
+  "status": "Ongoing",
+  "genres": ["Romance", "Music"],
+  "studio": "Cloud Hearts",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A heartfelt yuri romance develops through music and admiration. The anime focuses on emotional honesty."
+},
+{
+  "id": 307,
+  "name": "Re:Monster",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Studio Deen",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A man reincarnates as a goblin and evolves by consuming enemies. The anime focuses on power progression."
+},
+{
+  "id": 308,
+  "name": "The Strongest Magician in the Demon Lord's Army",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Studio A-Cat",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A human secretly serves as a top general in a demon army. The anime blends strategy with fantasy warfare."
+},
+{
+  "id": 309,
+  "name": "I Was Reincarnated as the 7th Prince",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Tsumugi Akita Animation Lab",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A magic-obsessed man is reborn as a royal prince. The anime focuses on pure enjoyment of magic."
+},
+{
+  "id": 310,
+  "name": "An Archdemon’s Dilemma",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Brain's Base",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A powerful mage awkwardly falls in love with an elf girl. The anime blends romance with fantasy elements."
+},
+{
+  "id": 311,
+  "name": "Chillin’ in Another World with Level 2 Super Cheat Powers",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "J.C.Staff",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A summoned hero chooses a peaceful life despite overwhelming power. The anime focuses on relaxation and humor."
+},
+{
+  "id": 312,
+  "name": "Sasaki and Peeps",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Silver Link",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A middle-aged man gains magical powers through a talking bird. The anime blends isekai and office comedy."
+},
+{
+  "id": 313,
+  "name": "A Sign of Affection",
+  "status": "Ongoing",
+  "genres": ["Romance", "Slice of Life"],
+  "studio": "Ajia-do",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A deaf college student navigates love and communication. The anime focuses on gentle romance and understanding."
+},
+{
+  "id": 314,
+  "name": "Villainess Level 99",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "J.C.Staff",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A girl reincarnates as an overpowered hidden boss. The anime humorously subverts otome game tropes."
+},
+{
+  "id": 315,
+  "name": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Satelight",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A man gains mind-reading powers after remaining single for years. The anime focuses on wholesome BL romance."
+},
+{
+  "id": 316,
+  "name": "The Foolish Angel Dances with the Devil",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Children's Playground Entertainment",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "An angel and demon attend the same school while hiding their identities. The anime mixes romance and humor."
+},
+{
+  "id": 317,
+  "name": "Orb: On the Movements of the Earth",
+  "status": "Ongoing",
+  "genres": ["Historical", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Scholars risk their lives to pursue forbidden astronomy. The anime focuses on belief and scientific truth."
+},
+{
+  "id": 318,
+  "name": "Gushing Over Magical Girls",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Ecchi"],
+  "studio": "Asahi Production",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A girl obsessed with magical girls becomes a villain herself. The anime satirizes the magical girl genre."
+},
+{
+  "id": 319,
+  "name": "Tis Time for Torture, Princess",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Fantasy"],
+  "studio": "PINE JAM",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A captured princess faces gentle but tempting torture. The anime is lighthearted and humorous."
+},
+{
+  "id": 320,
+  "name": "Doctor Elise",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Maho Film",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A surgeon reincarnates into a noblewoman’s body. The anime blends medicine and romance."
+},
+{
+  "id": 321,
+  "name": "The Wrong Way to Use Healing Magic",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Shin-Ei Animation",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A healer trains through brutal methods to become powerful. The anime mixes humor with fantasy combat."
+},
+{
+  "id": 322,
+  "name": "Fluffy Paradise",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Slice of Life"],
+  "studio": "EMT Squared",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A reincarnated girl is loved by magical creatures. The anime focuses on comfort and warmth."
+},
+{
+  "id": 323,
+  "name": "The Banished Former Hero Lives as He Pleases",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "Studio Deen",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A rejected hero chooses freedom over duty. The anime explores independence."
+},
+{
+  "id": 324,
+  "name": "High Card",
+  "status": "Ongoing",
+  "genres": ["Action", "Mystery"],
+  "studio": "Studio Hibari",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Card-based powers fuel stylish criminal conflicts. The anime blends action and mystery."
+},
+{
+  "id": 325,
+  "name": "Metallic Rouge",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "Bones",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "Android assassins fight for freedom in a neon-lit future."
+},
+{
+  "id": 326,
+  "name": "My Happy Marriage",
+  "status": "Ongoing",
+  "genres": ["Romance", "Drama"],
+  "studio": "Kinema Citrus",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A fragile romance faces supernatural and family challenges."
+},
+{
+  "id": 327,
+  "name": "MF Ghost",
+  "status": "Ongoing",
+  "genres": ["Sports", "Racing"],
+  "studio": "Felix Film",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "High-speed street racing evolves with new challengers."
+},
+{
+  "id": 328,
+  "name": "Yuru Camp",
+  "status": "Ongoing",
+  "genres": ["Slice of Life", "Adventure"],
+  "studio": "8bit",
+  "seasons": 3,
+  "episodes": 36,
+  "description": "Relaxing camping adventures continue across scenic locations."
+},
+{
+  "id": 329,
+  "name": "KonoSuba: God's Blessing on This Wonderful World!",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Fantasy"],
+  "studio": "Drive",
+  "seasons": 3,
+  "episodes": 31,
+  "description": "The dysfunctional party returns for more chaotic quests."
+},
+{
+  "id": 330,
+  "name": "Haikyuu!!",
+  "status": "Ongoing",
+  "genres": ["Sports", "Drama"],
+  "studio": "Production I.G",
+  "seasons": 5,
+  "episodes": 93,
+  "description": "High school volleyball players pursue national victory through teamwork."
+},
+{
+  "id": 331,
+  "name": "Re:Zero − Starting Life in Another World",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Psychological"],
+  "studio": "White Fox",
+  "seasons": 3,
+  "episodes": 62,
+  "description": "Subaru faces new timelines and greater emotional trials."
+},
+{
+  "id": 332,
+  "name": "Mushoku Tensei",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Studio Bind",
+  "seasons": 3,
+  "episodes": 62,
+  "description": "Rudeus confronts adulthood and responsibility."
+},
+{
+  "id": 333,
+  "name": "Frieren: Beyond Journey’s End",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 2,
+  "episodes": 40,
+  "description": "The journey continues with deeper reflection on time and loss."
+},
+{
+  "id": 334,
+  "name": "Solo Leveling",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "A-1 Pictures",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "The strongest hunter faces global-scale threats."
+},
+{
+  "id": 335,
+  "name": "The Apothecary Diaries",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Drama"],
+  "studio": "OLM",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "Court mysteries grow more complex and dangerous."
+},
+{
+  "id": 336,
+  "name": "Kaiju No. 8",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "Production I.G",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "The kaiju threat escalates with new enemies."
+},
+{
+  "id": 337,
+  "name": "Wind Breaker",
+  "status": "Ongoing",
+  "genres": ["Action", "Drama"],
+  "studio": "CloverWorks",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "Delinquents defend their town against larger threats."
+},
+{
+  "id": 338,
+  "name": "Delicious in Dungeon",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Studio Trigger",
+  "seasons": 2,
+  "episodes": 36,
+  "description": "Dungeon cooking continues with deeper lore."
+},
+{
+  "id": 339,
+  "name": "Zom 100: Bucket List of the Dead",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Horror"],
+  "studio": "Bug Films",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Survival goals expand in a colorful zombie apocalypse."
+},
+{
+  "id": 340,
+  "name": "Blue Lock",
+  "status": "Ongoing",
+  "genres": ["Sports", "Psychological"],
+  "studio": "8bit",
+  "seasons": 3,
+  "episodes": 62,
+  "description": "Ego-driven competition reaches international levels."
+},
+{
+  "id": 341,
+  "name": "Classroom of the Elite",
+  "status": "Ongoing",
+  "genres": ["Psychological", "Drama"],
+  "studio": "Lerche",
+  "seasons": 4,
+  "episodes": 50,
+  "description": "Elite students face higher-stakes mind games."
+},
+{
+  "id": 342,
+  "name": "Dr. Stone",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Adventure"],
+  "studio": "TMS Entertainment",
+  "seasons": 4,
+  "episodes": 70,
+  "description": "Humanity’s scientific revival approaches its conclusion."
+},
+{
+  "id": 343,
+  "name": "Oshi no Ko",
+  "status": "Ongoing",
+  "genres": ["Drama", "Psychological"],
+  "studio": "Doga Kobo",
+  "seasons": 3,
+  "episodes": 35,
+  "description": "The entertainment industry’s darker truths deepen further."
+},
+{
+  "id": 344,
+  "name": "NieR: Automata Ver1.1a",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Action"],
+  "studio": "A-1 Pictures",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Androids battle machines in a post-apocalyptic future."
+},
+{
+  "id": 345,
+  "name": "Ragna Crimson",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Silver Link",
+  "seasons": 1,
+  "episodes": 24,
+  "description": "A dragon hunter uses future knowledge to change destiny."
+},
+{
+  "id": 346,
+  "name": "The Ancient Magus’ Bride",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Romance"],
+  "studio": "Wit Studio",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "A girl enters the world of magic and folklore."
+},
+{
+  "id": 347,
+  "name": "Goblin Slayer",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Action"],
+  "studio": "White Fox",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "An adventurer dedicates his life to exterminating goblins."
+},
+{
+  "id": 348,
+  "name": "The Eminence in Shadow",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Nexus",
+  "seasons": 2,
+  "episodes": 32,
+  "description": "A man secretly controls events from the shadows."
+},
+{
+  "id": 349,
+  "name": "Record of Ragnarok",
+  "status": "Ongoing",
+  "genres": ["Action", "Mythology"],
+  "studio": "Graphinica",
+  "seasons": 2,
+  "episodes": 27,
+  "description": "Gods and humans battle to decide humanity’s fate."
+},
+{
+  "id": 350,
+  "name": "Bungo Stray Dogs",
+  "status": "Ongoing",
+  "genres": ["Action", "Mystery"],
+  "studio": "Bones",
+  "seasons": 5,
+  "episodes": 61,
+  "description": "Detectives with supernatural abilities face criminal organizations."
+}
+,
+{
+  "id": 351,
+  "name": "Shoshimin: How to Become Ordinary",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Slice of Life"],
+  "studio": "Lapin Track",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "Two former prodigies try to live quiet, ordinary lives while mysteries keep finding them. The anime focuses on subtle deduction and character psychology."
+},
+{
+  "id": 352,
+  "name": "Nige Jouzu no Wakagimi",
+  "status": "Ongoing",
+  "genres": ["Historical", "Action"],
+  "studio": "CloverWorks",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A young noble survives political purges using speed and wit instead of strength. The anime blends history with unique action."
+},
+{
+  "id": 353,
+  "name": "ATRI: My Dear Moments",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "TROYCA",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "In a flooded future, a boy meets a mysterious android girl. The story focuses on memory, loss, and hope."
+},
+{
+  "id": 354,
+  "name": "Bye Bye, Earth",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "LIDENFILMS",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "A lone girl searches for her identity in a beast-dominated world. The anime emphasizes belonging and survival."
+},
+{
+  "id": 355,
+  "name": "Senpai Is an Otokonoko",
+  "status": "Ongoing",
+  "genres": ["Romance", "Drama"],
+  "studio": "Project No.9",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A romantic story that explores gender expression and acceptance in school life with sensitivity."
+},
+{
+  "id": 356,
+  "name": "Isekai Suicide Squad",
+  "status": "Ongoing",
+  "genres": ["Action", "Fantasy"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 10,
+  "description": "DC villains are transported into a dangerous fantasy world. The anime mixes chaos, violence, and dark humor."
+},
+{
+  "id": 357,
+  "name": "Mayonaka Punch",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A fallen streamer joins a bizarre group to regain fame. The anime focuses on internet culture and friendship."
+},
+{
+  "id": 358,
+  "name": "Monogatari Series: Off & Monster Season",
+  "status": "Ongoing",
+  "genres": ["Supernatural", "Psychological"],
+  "studio": "Shaft",
+  "seasons": 1,
+  "episodes": 14,
+  "description": "New stories explore supernatural phenomena tied to human emotions. The anime continues its dialogue-driven style."
+},
+{
+  "id": 359,
+  "name": "Grendizer U",
+  "status": "Ongoing",
+  "genres": ["Mecha", "Sci-Fi"],
+  "studio": "Gaina",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A reboot of the classic mecha series featuring alien invasions and giant robot battles."
+},
+{
+  "id": 360,
+  "name": "Ramen Akaneko",
+  "status": "Ongoing",
+  "genres": ["Slice of Life", "Comedy"],
+  "studio": "E&H Production",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A ramen shop run by cats serves customers with warmth and humor. The anime is relaxing and wholesome."
+},
+{
+  "id": 361,
+  "name": "Egumi Legacy",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Studio Outrigger",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A surreal fantasy world unfolds through short episodic storytelling and absurd humor."
+},
+{
+  "id": 362,
+  "name": "Kimi ni Todoke: From Me to You",
+  "status": "Ongoing",
+  "genres": ["Romance", "Slice of Life"],
+  "studio": "Production I.G",
+  "seasons": 3,
+  "episodes": 38,
+  "description": "A shy girl slowly opens up to friendship and love. The anime emphasizes emotional growth and kindness."
+},
+{
+  "id": 363,
+  "name": "Rising Impact",
+  "status": "Ongoing",
+  "genres": ["Sports", "Drama"],
+  "studio": "Lay-duce",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A young golf prodigy rises through competitive tournaments. The anime focuses on ambition and discipline."
+},
+{
+  "id": 364,
+  "name": "Tasokare Hotel",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Supernatural"],
+  "studio": "LIDENFILMS",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Guests at a mysterious hotel are trapped between life and death. The anime focuses on memory and regret."
+},
+{
+  "id": 365,
+  "name": "The Concierge",
+  "status": "Ongoing",
+  "genres": ["Slice of Life", "Drama"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A luxury store concierge helps customers through emotional encounters. The anime is calm and reflective."
+},
+{
+  "id": 366,
+  "name": "Garouden: The Way of the Lone Wolf",
+  "status": "Ongoing",
+  "genres": ["Martial Arts", "Drama"],
+  "studio": "NAZ",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Fighters pursue strength through brutal underground martial arts. The anime emphasizes raw combat."
+},
+{
+  "id": 367,
+  "name": "Code Geass: Rozé of the Recapture",
+  "status": "Ongoing",
+  "genres": ["Mecha", "Drama"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A new chapter in the Code Geass universe focusing on rebellion and strategy."
+},
+{
+  "id": 368,
+  "name": "Kimi no Iro",
+  "status": "Ongoing",
+  "genres": ["Drama", "Music"],
+  "studio": "Science SARU",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A girl perceives emotions as colors and forms a band. The anime focuses on emotional expression."
+},
+{
+  "id": 369,
+  "name": "Mecha-Ude",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "TriF Studio",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Teenagers partner with sentient mechanical arms to fight hidden threats."
+},
+{
+  "id": 370,
+  "name": "Project Bullet/Bullet",
+  "status": "Ongoing",
+  "genres": ["Action", "Sci-Fi"],
+  "studio": "E&H Production",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "High-speed gunfights unfold in a cyberpunk-inspired city."
+},
+{
+  "id": 371,
+  "name": "Moonrise",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Earth and Moon enter conflict over independence. The anime explores war and ideology."
+},
+{
+  "id": 372,
+  "name": "Sand Land: The Series",
+  "status": "Ongoing",
+  "genres": ["Adventure", "Fantasy"],
+  "studio": "Sunrise",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A demon prince and humans search for water in a desert world. The anime emphasizes friendship."
+},
+{
+  "id": 373,
+  "name": "The Grimm Variations",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Dark"],
+  "studio": "Wit Studio",
+  "seasons": 1,
+  "episodes": 6,
+  "description": "Classic fairy tales are retold with darker and modern twists."
+},
+{
+  "id": 374,
+  "name": "Kinnikuman Perfect Origin Arc",
+  "status": "Ongoing",
+  "genres": ["Action", "Sports"],
+  "studio": "Production I.G",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Legendary wrestlers clash in intense battles of strength and honor."
+},
+{
+  "id": 375,
+  "name": "Dead Dead Demons Dededede Destruction",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Production +h.",
+  "seasons": 1,
+  "episodes": 17,
+  "description": "Teenagers live everyday lives under the shadow of alien invasion. The anime blends normalcy with apocalypse."
+},
+{
+  "id": 376,
+  "name": "Sakuna: Of Rice and Ruin",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Adventure"],
+  "studio": "P.A. Works",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A harvest goddess learns responsibility while restoring a cursed land."
+},
+{
+  "id": 377,
+  "name": "Ron Kamonohashi’s Forbidden Deductions",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Detective"],
+  "studio": "Diomedéa",
+  "seasons": 2,
+  "episodes": 26,
+  "description": "A brilliant but dangerous detective solves impossible crimes."
+},
+{
+  "id": 378,
+  "name": "Tsue to Tsurugi no Wistoria",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Actas",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A sword-wielding boy challenges a magic-dominated academy."
+},
+{
+  "id": 379,
+  "name": "Magical Girl Destroyers",
+  "status": "Ongoing",
+  "genres": ["Action", "Supernatural"],
+  "studio": "Bibury Animation Studios",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Otaku rebels fight oppression using magical girls. The anime is chaotic and symbolic."
+},
+{
+  "id": 380,
+  "name": "Undead Murder Farce",
+  "status": "Ongoing",
+  "genres": ["Mystery", "Supernatural"],
+  "studio": "Lapin Track",
+  "seasons": 2,
+  "episodes": 25,
+  "description": "Detectives solve supernatural crimes involving mythical beings."
+},
+{
+  "id": 381,
+  "name": "Malevolent Spirits: Mononogatari",
+  "status": "Ongoing",
+  "genres": ["Supernatural", "Action"],
+  "studio": "BN Pictures",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A young man exorcises spirits bound to objects while learning empathy."
+},
+{
+  "id": 382,
+  "name": "Synduality Noir",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Mecha"],
+  "studio": "8bit",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Pilots and AI partners survive in a post-apocalyptic world."
+},
+{
+  "id": 383,
+  "name": "Shy",
+  "status": "Ongoing",
+  "genres": ["Superhero", "Drama"],
+  "studio": "8bit",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A timid superhero learns confidence while protecting the world."
+},
+{
+  "id": 384,
+  "name": "The Kingdoms of Ruin",
+  "status": "Ongoing",
+  "genres": ["Dark Fantasy", "Action"],
+  "studio": "Yokohama Animation Lab",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A mage seeks revenge against a world that exterminated witches."
+},
+{
+  "id": 385,
+  "name": "Under Ninja",
+  "status": "Ongoing",
+  "genres": ["Action", "Comedy"],
+  "studio": "Tezuka Productions",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Modern ninjas operate secretly in Japanese society."
+},
+{
+  "id": 386,
+  "name": "The Girl Who Leapt Through Time: Revisited",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 1,
+  "description": "A reflective continuation exploring time and choices."
+},
+{
+  "id": 387,
+  "name": "Alya Sometimes Hides Her Feelings in Russian",
+  "status": "Ongoing",
+  "genres": ["Romance", "Comedy"],
+  "studio": "Doga Kobo",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A tsundere girl expresses affection in Russian without realizing she is understood."
+},
+{
+  "id": 388,
+  "name": "Quality Assurance in Another World",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Comedy"],
+  "studio": "Okuruto Noboru",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A game tester becomes trapped in a buggy fantasy world."
+},
+{
+  "id": 389,
+  "name": "Dahlia in Bloom",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Slice of Life"],
+  "studio": "Typhoon Graphics",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "A craftswoman builds a peaceful life using magical engineering."
+},
+{
+  "id": 390,
+  "name": "VTuber Legend",
+  "status": "Ongoing",
+  "genres": ["Comedy", "Slice of Life"],
+  "studio": "TNK",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Behind-the-scenes chaos unfolds in the VTuber industry."
+},
+{
+  "id": 391,
+  "name": "Rinkai!",
+  "status": "Ongoing",
+  "genres": ["Sports", "Drama"],
+  "studio": "TMS Entertainment",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Female cyclists compete in professional track racing."
+},
+{
+  "id": 392,
+  "name": "KamiErabi GOD.app",
+  "status": "Ongoing",
+  "genres": ["Psychological", "Supernatural"],
+  "studio": "Unend",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "Participants battle in a god-selection survival game."
+},
+{
+  "id": 393,
+  "name": "My Home Hero",
+  "status": "Ongoing",
+  "genres": ["Thriller", "Drama"],
+  "studio": "Tezuka Productions",
+  "seasons": 2,
+  "episodes": 24,
+  "description": "A father goes to extreme lengths to protect his family."
+},
+{
+  "id": 394,
+  "name": "The Gene of AI",
+  "status": "Ongoing",
+  "genres": ["Sci-Fi", "Drama"],
+  "studio": "Madhouse",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Ethical dilemmas arise in a world where humans and AI coexist."
+},
+{
+  "id": 395,
+  "name": "Helck",
+  "status": "Ongoing",
+  "genres": ["Fantasy", "Action"],
+  "studio": "Satelight",
+  "seasons": 2,
+  "episodes": 48,
+  "description": "A human hero joins a demon tournament with mysterious intentions."
+},
+{
+  "id": 396,
+  "name": "MF Ghost: Final Stage",
+  "status": "Ongoing",
+  "genres": ["Sports", "Racing"],
+  "studio": "Felix Film",
+  "seasons": 3,
+  "episodes": 12,
+  "description": "Street racing reaches its climactic stage."
+},
+{
+  "id": 397,
+  "name": "Bang Dream! Ave Mujica",
+  "status": "Ongoing",
+  "genres": ["Music", "Drama"],
+  "studio": "SANZIGEN",
+  "seasons": 1,
+  "episodes": 13,
+  "description": "A darker band story exploring obsession and identity."
+},
+{
+  "id": 398,
+  "name": "The iDOLM@STER Shiny Colors",
+  "status": "Ongoing",
+  "genres": ["Music", "Slice of Life"],
+  "studio": "Polygon Pictures",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Aspiring idols grow together through performance and friendship."
+},
+{
+  "id": 399,
+  "name": "Pokémon Horizons",
+  "status": "Ongoing",
+  "genres": ["Adventure", "Fantasy"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 50,
+  "description": "A new generation explores the Pokémon world beyond Ash’s journey."
+},
+{
+  "id": 400,
+  "name": "Shinkalion: Change the World",
+  "status": "Ongoing",
+  "genres": ["Mecha", "Action"],
+  "studio": "OLM",
+  "seasons": 1,
+  "episodes": 12,
+  "description": "Children pilot transforming trains to protect Japan from threats."
+}
+]
