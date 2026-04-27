@@ -8,22 +8,24 @@ const Recommendationbox = () => {
     const [recommendedIds, setrecommendedIds] = useState([])
     const [recommendedAnimes, setrecommendedAnimes] = useState([])
 
-    const recommendAnimes=async()=>{
-        const res=await axios.post("http://localhost:3000/api/recommend/recommendAnimes",{
-            anime:anime
+    const recommendAnimes = async () => {
+        const res = await axios.post("http://localhost:3000/api/recommend/recommendAnimes", {
+            anime: anime
         })
         setrecommendedAnimes(res.data.recommendations)
     }
     return (
         <div>
             <input type="text" onChange={(e) => { setanime(e.target.value) }} />
-            <button onClick={()=>{recommendAnimes()}} >Recommend</button>
-            {recommendedAnimes.length>0 && 
-            <div>
-                {recommendedAnimes.map((anime,id)=>(
-                    <AnimeCard key={anime.id} anime={anime}></AnimeCard>
-                ))}
-            </div>}
+            <button onClick={() => { recommendAnimes() }} >Recommend</button>
+            {recommendedAnimes.length > 0 &&
+                <div style={{
+                    border: "2px solid White"
+                }}>
+                    {recommendedAnimes.map((anime, id) => (
+                        <AnimeCard key={anime.id} anime={anime}></AnimeCard>
+                    ))}
+                </div>}
         </div>
     )
 }

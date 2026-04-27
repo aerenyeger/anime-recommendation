@@ -1,1 +1,3 @@
-.env
+anime_recommendation/.env
+
+bd_anime_recommendation/.env
